@@ -1,0 +1,99 @@
+[I 200612 15:25:53 tornado-demo-service:123] Server Inititial Success! 
+[I 200612 15:26:13 tornado-demo-service:46] title: 《this is title》
+[I 200612 15:26:13 tornado-demo-service:47] content: this is content
+[I 200612 15:26:13 tornado-demo-service:51] result: this is content<MODEL1>this is content<MODEL2><FINAL_INFERENCE>
+[I 200612 15:26:13 tornado-demo-service:62] post success!   end - begin = 0:00:00.000358
+[I 200612 15:26:13 web:2246] 200 POST /analysis (::1) 1.21ms
+[I 200612 16:00:22 tornado-demo-service:46] title: 《this is title》
+[I 200612 16:00:22 tornado-demo-service:47] content: this is content
+[I 200612 16:00:22 tornado-demo-service:51] result: this is content<MODEL1>this is content<MODEL2><FINAL_INFERENCE>
+[I 200612 16:00:22 tornado-demo-service:62] post success!   end - begin = 0:00:00.000375
+[I 200612 16:00:22 web:2246] 200 POST /analysis (::1) 0.93ms
+[I 200618 15:55:12 doc2pdf-demo-service:121] Server Inititial Success! 
+[W 200618 16:00:20 web:1971] 405 GET /analysis?doc_url=%22http://10.0.0.112/group112/M00/0D/35/CgAAb17pxNSLT26oAAGN3Z3P4vw22.docx%22 (::1) 2.00ms
+[E 200618 16:00:49 doc2pdf-demo-service:63] Traceback (most recent call last):
+      File "C:/Users/Administrator/PycharmProjects/Analysis-docx/doc2pdf-demo-service/doc2pdf-demo-service.py", line 41, in post
+        post_data = json_decode(self.request.body)
+      File "C:\Program Files\Anaconda3\lib\site-packages\tornado\escape.py", line 87, in json_decode
+        return json.loads(to_basestring(value))
+      File "C:\Program Files\Anaconda3\lib\json\__init__.py", line 319, in loads
+        return _default_decoder.decode(s)
+      File "C:\Program Files\Anaconda3\lib\json\decoder.py", line 339, in decode
+        obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+      File "C:\Program Files\Anaconda3\lib\json\decoder.py", line 357, in raw_decode
+        raise JSONDecodeError("Expecting value", s, err.value) from None
+    json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+    
+[I 200618 16:00:49 web:1971] 200 POST /analysis?doc_url=%22http://10.0.0.112/group112/M00/0D/35/CgAAb17pxNSLT26oAAGN3Z3P4vw22.docx%22 (::1) 4.00ms
+[E 200618 16:03:12 doc2pdf-demo-service:63] Traceback (most recent call last):
+      File "C:/Users/Administrator/PycharmProjects/Analysis-docx/doc2pdf-demo-service/doc2pdf-demo-service.py", line 41, in post
+        post_data = json_decode(self.request.body)
+      File "C:\Program Files\Anaconda3\lib\site-packages\tornado\escape.py", line 87, in json_decode
+        return json.loads(to_basestring(value))
+      File "C:\Program Files\Anaconda3\lib\json\__init__.py", line 319, in loads
+        return _default_decoder.decode(s)
+      File "C:\Program Files\Anaconda3\lib\json\decoder.py", line 339, in decode
+        obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+      File "C:\Program Files\Anaconda3\lib\json\decoder.py", line 357, in raw_decode
+        raise JSONDecodeError("Expecting value", s, err.value) from None
+    json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+    
+[I 200618 16:03:12 web:1971] 200 POST /analysis?doc_url=%22http://10.0.0.112/group112/M00/0D/35/CgAAb17pxNSLT26oAAGN3Z3P4vw22.docx%22 (::1) 1.00ms
+[I 200618 16:05:16 doc2pdf-demo-service:45] doc_url: http://10.0.0.112/group112/M00/0D/35/CgAAb17pxNSLT26oAAGN3Z3P4vw22.docx
+[I 200618 16:05:18 doc2pdf-demo-service:49] result: -1
+[I 200618 16:05:18 doc2pdf-demo-service:60] post success!   end - begin = 0:00:01.962113
+[I 200618 16:05:18 web:1971] 200 POST /analysis (::1) 1962.11ms
+[I 200618 16:15:48 doc2pdf-demo-service:121] Server Inititial Success! 
+[I 200618 16:15:58 doc2pdf-demo-service:45] doc_url: http://10.0.0.112/group112/M00/0D/35/CgAAb17pxNSLT26oAAGN3Z3P4vw22.docx
+[I 200618 16:15:59 doc2pdf-demo-service:49] result: -1
+[I 200618 16:15:59 doc2pdf-demo-service:60] post success!   end - begin = 0:00:01.078062
+[I 200618 16:15:59 web:1971] 200 POST /analysis (::1) 1079.06ms
+[I 200618 16:22:24 doc2pdf-demo-service:121] Server Inititial Success! 
+[I 200618 16:22:34 doc2pdf-demo-service:45] doc_url: http://10.0.0.112/group112/M00/0D/35/CgAAb17pxNSLT26oAAGN3Z3P4vw22.docx
+[I 200618 16:22:35 doc2pdf-demo-service:49] result: -1
+[I 200618 16:22:35 doc2pdf-demo-service:60] post success!   end - begin = 0:00:01.079062
+[I 200618 16:22:35 web:1971] 200 POST /analysis (::1) 1080.06ms
+[I 200618 16:56:50 doc2pdf-demo-service:121] Server Inititial Success! 
+[I 200618 16:57:30 doc2pdf-demo-service:45] doc_url: http://10.0.0.112/group112/M00/0D/35/CgAAb17pxNSLT26oAAGN3Z3P4vw22.docx
+[I 200618 16:57:33 doc2pdf-demo-service:49] result: -1
+[I 200618 16:57:33 doc2pdf-demo-service:60] post success!   end - begin = 0:00:03.142180
+[I 200618 16:57:33 web:1971] 200 POST /analysis (::1) 3142.18ms
+[I 200618 17:00:01 doc2pdf-demo-service:121] Server Inititial Success! 
+[I 200618 17:00:04 doc2pdf-demo-service:45] doc_url: http://10.0.0.112/group112/M00/0D/35/CgAAb17pxNSLT26oAAGN3Z3P4vw22.docx
+[I 200618 17:00:09 doc2pdf-demo-service:49] result: https://html-pdf.oss-cn-beijing.aliyuncs.com/1b48feb6b14211ea9e2a64006a7dee12
+[I 200618 17:00:09 doc2pdf-demo-service:60] post success!   end - begin = 0:00:04.148238
+[I 200618 17:00:09 web:1971] 200 POST /analysis (::1) 4150.24ms
+[I 200618 17:04:03 doc2pdf-demo-service:121] Server Inititial Success! 
+[I 200618 17:04:08 doc2pdf-demo-service:45] doc_url: http://10.0.0.112/group112/M00/0D/35/CgAAb17pxNSLT26oAAGN3Z3P4vw22.docx
+[I 200618 17:04:11 doc2pdf-demo-service:49] result: https://html-pdf.oss-cn-beijing.aliyuncs.com/ac45602eb14211ea849964006a7dee12
+[I 200618 17:04:11 doc2pdf-demo-service:60] post success!   end - begin = 0:00:03.422195
+[I 200618 17:04:11 web:1971] 200 POST /analysis (::1) 3423.20ms
+[I 200618 17:28:30 doc2pdf-demo-service:121] Server Inititial Success! 
+[I 200618 17:28:34 doc2pdf-demo-service:45] doc_url: http://10.0.0.112/group112/M00/0D/35/CgAAb17pxNSLT26oAAGN3Z3P4vw22.docx
+[I 200618 17:28:37 doc2pdf-demo-service:49] result: https://html-pdf.oss-cn-beijing.aliyuncs.com/15f7949eb14611eaac8464006a7dee12
+[I 200618 17:28:37 doc2pdf-demo-service:60] post success!   end - begin = 0:00:03.361193
+[I 200618 17:28:37 web:1971] 200 POST /analysis (::1) 3363.19ms
+[I 200622 18:25:13 doc2pdf-demo-service:121] Server Inititial Success! 
+[I 200622 18:25:51 doc2pdf-demo-service:45] doc_url: http://10.0.0.112/group112/M00/0D/35/CgAAb17pxNSLT26oAAGN3Z3P4vw22.docx
+[I 200622 18:25:55 doc2pdf-demo-service:49] result: -1
+[I 200622 18:25:55 doc2pdf-demo-service:60] post success!   end - begin = 0:00:03.375193
+[I 200622 18:25:55 web:1971] 200 POST /analysis (::1) 3376.19ms
+[I 200622 18:27:34 doc2pdf-demo-service:121] Server Inititial Success! 
+[I 200622 18:27:40 doc2pdf-demo-service:45] doc_url: http://10.0.0.112/group112/M00/0D/35/CgAAb17pxNSLT26oAAGN3Z3P4vw22.docx
+[I 200622 18:27:43 doc2pdf-demo-service:49] result: https://html-pdf.oss-cn-beijing.aliyuncs.com/0117fa12b47311ea9b1864006a7dee12
+[I 200622 18:27:43 doc2pdf-demo-service:60] post success!   end - begin = 0:00:03.143180
+[I 200622 18:27:43 web:1971] 200 POST /analysis (::1) 3145.18ms
+[I 200623 15:46:39 doc2pdf-demo-service:121] Server Inititial Success! 
+[I 200623 15:47:01 doc2pdf-demo-service:45] doc_url: http://10.0.0.112/group112/M00/0D/35/CgAAb17pxNSLT26oAAGN3Z3P4vw22.docx
+[I 200623 15:47:07 doc2pdf-demo-service:49] result: https://html-pdf.oss-cn-beijing.aliyuncs.com/bbf70b22b52511ea86fb64006a7dee12
+[I 200623 15:47:07 doc2pdf-demo-service:60] post success!   end - begin = 0:00:05.461312
+[I 200623 15:47:07 web:1971] 200 POST /analysis (::1) 5461.31ms
+[I 200624 14:13:30 doc2pdf-demo-service:121] Server Inititial Success! 
+[I 200624 14:13:47 doc2pdf-demo-service:45] doc_url: https://html-pdf.oss-cn-beijing.aliyuncs.com/89c6b5cab52d11eaaffc82f3143f0de2
+[I 200624 14:13:50 doc2pdf-demo-service:49] result: -1
+[I 200624 14:13:50 doc2pdf-demo-service:60] post success!   end - begin = 0:00:03.257186
+[I 200624 14:13:50 web:1971] 200 POST /analysis (::1) 3257.19ms
+[I 200624 14:15:33 doc2pdf-demo-service:45] doc_url: http://10.0.0.112/group112/M00/0D/35/CgAAb17pxNSLT26oAAGN3Z3P4vw22.docx
+[I 200624 14:15:38 doc2pdf-demo-service:49] result: https://html-pdf.oss-cn-beijing.aliyuncs.com/1e8b3c22b5e211ea949c64006a7dee12
+[I 200624 14:15:38 doc2pdf-demo-service:60] post success!   end - begin = 0:00:04.984285
+[I 200624 14:15:38 web:1971] 200 POST /analysis (::1) 4985.29ms

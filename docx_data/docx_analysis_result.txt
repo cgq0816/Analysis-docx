@@ -1,0 +1,948 @@
+[{"font_size": "18", "text": "证券研究报告", "font": "宋体"}, {"font_size": "18", "text": "| ", "font": ""}, {"font_size": "18", "text": "公司点评报告", "font": "宋体"}, {"font_size": "18", "text": "日用消费\t", "font": "宋体"}, {"font_size": "18", "text": "|", "font": ""}, {"font_size": "18", "text": " ", "font": ""}]
+{'style': 'position:absolute;margin-left:41.599998pt;margin-top:48.452518pt;width:117.4pt;height:27.9pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59680', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "目标估值：", "font": "楷体"}, {"font_size": "18", "text": "117 ", "font": ""}, {"font_size": "18", "text": "元", "font": "楷体"}, {"font_size": "18", "text": "当前股价：", "font": "楷体"}, {"font_size": "18", "text": "102.27 ", "font": ""}, {"font_size": "18", "text": "元", "font": "楷体"}, {"font_size": "18", "text": "2019 ", "font": ""}, {"font_size": "18", "text": "年", "font": "楷体"}, {"font_size": "18", "text": "04 ", "font": ""}, {"font_size": "18", "text": "月", "font": "楷体"}, {"font_size": "18", "text": "28 ", "font": ""}]
+{'style': 'position:absolute;margin-left:44.360001pt;margin-top:131.032516pt;width:85.75pt;height:38.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59656', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:313.690002pt;margin-top:142.609360pt;width:197.6pt;height:17pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59632', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "21", "text": "一季度收入利润符合乐观预期，开门红顺利达成，现金流靓丽，备足余量。", "font": "宋体"}, {"font_size": "", "text": "公司 ", "font": "宋体"}, {"font_size": "", "text": "19Q1 ", "font": "Arial"}, {"font_size": "", "text": "收入 ", "font": "宋体"}, {"font_size": "", "text": "175.9 ", "font": "Arial"}, {"font_size": "", "text": "亿元，归母净利润 ", "font": "宋体"}, {"font_size": "", "text": "64.8 ", "font": "Arial"}, {"font_size": "", "text": "亿元，分别同比增长 ", "font": "宋体"}, {"font_size": "", "text": "26.6%", "font": "Arial"}, {"font_size": "", "text": "和", "font": "宋体"}, {"font_size": "", "text": "30.3%", "font": "Arial"}, {"font_size": "", "text": "，符合市场乐观预期，开门红顺利达成。现金流情况靓丽，一季度销售", "font": "宋体"}, {"font_size": "", "text": "回款 ", "font": "宋体"}, {"font_size": "", "text": "177.0 ", "font": "Arial"}, {"font_size": "", "text": "亿元，同比高增 ", "font": "宋体"}, {"font_size": "", "text": "69.9%", "font": "Arial"}, {"font_size": "", "text": "，应收票据 ", "font": "宋体"}, {"font_size": "", "text": "158.9 ", "font": "Arial"}, {"font_size": "", "text": "亿元，同比基本持平。", "font": "宋体"}, {"font_size": "", "text": "预收账款 ", "font": "宋体"}, {"font_size": "", "text": "48.5 ", "font": "Arial"}, {"font_size": "", "text": "亿元，同比下降 ", "font": "宋体"}, {"font_size": "", "text": "15.9%", "font": "Arial"}, {"font_size": "", "text": "，草根调研反馈，与去年按照全年计划", "font": "宋体"}, {"font_size": "", "text": "打款政策不同，公司今年年初要求经销商仅按照 ", "font": "宋体"}, {"font_size": "", "text": "1-5 ", "font": "Arial"}, {"font_size": "", "text": "月份计划打款，", "font": "宋体"}, {"font_size": "", "text": "6 ", "font": "Arial"}, {"font_size": "", "text": "月份以", "font": "宋体"}, {"font_size": "", "text": "后的新品五粮液由于尚未分配好各家额度，经销商尚未开始打款，即使如此， 预收账款仍维持高位，为年内新品推出、改革推进备足余量。一季度经营性 ", "font": "宋体"}, {"font_size": "", "text": "净现金流", "font": "宋体"}, {"font_size": "", "text": "/", "font": "Arial"}, {"font_size": "", "text": "净利润高达 ", "font": "宋体"}, {"font_size": "", "text": "122.4%", "font": "Arial"}, {"font_size": "", "text": "，现金流质量较高。", "font": "宋体"}, {"font_size": "", "text": "高端产品放量驱动毛利率提升，费用率维持平稳。", "font": "Microsoft JhengHei"}, {"font_size": "", "text": "19Q1 ", "font": "Arial"}, {"font_size": "", "text": "毛利率 ", "font": "宋体"}, {"font_size": "", "text": "75.8%", "font": "Arial"}, {"font_size": "", "text": "，同比", "font": "宋体"}, {"font_size": "", "text": "提升 ", "font": "宋体"}, {"font_size": "", "text": "2.6pcts", "font": "Arial"}, {"font_size": "", "text": "，由于收藏版一季度仍未发货", "font": "宋体"}, {"font_size": "", "text": "（", "font": "宋体"}, {"font_size": "", "text": "提价至 ", "font": "宋体"}, {"font_size": "", "text": "859 ", "font": "Arial"}, {"font_size": "", "text": "元", "font": "宋体"}, {"font_size": "", "text": "），", "font": "宋体"}, {"font_size": "", "text": "预计仍系五粮", "font": "宋体"}, {"font_size": "", "text": "液系列放量驱动为主。销售费用", "font": "宋体"}, {"font_size": "", "text": "12", "font": "Arial"}, {"font_size": "", "text": ".", "font": "Arial"}, {"font_size": "", "text": "7", "font": "Arial"}, {"font_size": "", "text": " ", "font": "Arial"}, {"font_size": "", "text": "亿元，同比增长", "font": "宋体"}, {"font_size": "", "text": "2", "font": "Arial"}, {"font_size": "", "text": "7", "font": "Arial"}, {"font_size": "", "text": "%", "font": "Arial"}, {"font_size": "", "text": "，销售费用率", "font": "宋体"}, {"font_size": "", "text": "1", "font": "Arial"}, {"font_size": "", "text": "3", "font": "Arial"}, {"font_size": "", "text": ".", "font": "Arial"}, {"font_size": "", "text": "9", "font": "Arial"}, {"font_size": "", "text": "%", "font": "Arial"}, {"font_size": "", "text": "，", "font": "宋体"}, {"font_size": "", "text": "同比基本持平，预计后续营销改革深化，销售团队人员到位后，销售费用率", "font": "宋体"}, {"font_size": "", "text": "将稳中略升，管理费用率 ", "font": "宋体"}, {"font_size": "", "text": "4.5%", "font": "Arial"}, {"font_size": "", "text": "（还原研发费用科目调整口径", "font": "宋体"}, {"font_size": "", "text": "）", "font": "宋体"}, {"font_size": "", "text": "，同比略升", "font": "宋体"}, {"font_size": "", "text": "0.2pct", "font": "Arial"}, {"font_size": "", "text": "，净利率升至 ", "font": "宋体"}, {"font_size": "", "text": "36.8%", "font": "Arial"}, {"font_size": "21", "text": "。", "font": "宋体"}, {"font_size": "21", "text": "营销改革厉行推进，新品有望实现顺价销售，静待改革红利持续释放。", "font": "Microsoft JhengHei"}, {"font_size": "21", "text": "糖酒", "font": "宋体"}, {"font_size": "21", "text": "会后，公司营销改革连续强力推进，", "font": "宋体"}, {"font_size": "21", "text": "（", "font": "Microsoft JhengHei"}, {"font_size": "21", "text": "1", "font": ""}, {"font_size": "21", "text": "）", "font": "Microsoft JhengHei"}, {"font_size": "21", "text": "系列政策配套出台，厉行推进普五", "font": "Microsoft JhengHei"}, {"font_size": "21", "text": "批价回升，有望推动新品顺价销售。", "font": "Microsoft JhengHei"}, {"font_size": "21", "text": "在控制发货背景下，", "font": "宋体"}, {"font_size": "21", "text": "4", "font": ""}, {"font_size": "21", "text": "  ", "font": ""}, {"font_size": "21", "text": "月以来五粮液批价", "font": "宋体"}, {"font_size": "", "text": "加速上升至 ", "font": "宋体"}, {"font_size": "", "text": "850 ", "font": "Arial"}, {"font_size": "21", "text": "元左右，我们认为以五粮液品牌实力，在千元之内提价能否顺利，更多是取决于渠道而非消费者，公司年初提出的控盘分利方案切中改", "font": "宋体"}, {"font_size": "21", "text": "革要点，经销商返利的全面取消将有助于减少低价甩货的现象，提价后的顺", "font": "宋体"}, {"font_size": "21", "text": "价销售概率明显提升。", "font": "宋体"}, {"font_size": "21", "text": "（", "font": "Microsoft JhengHei"}, {"font_size": "21", "text": "2", "font": ""}, {"font_size": "21", "text": "）系列酒年内分类分批清理系列酒方案出台。", "font": "Microsoft JhengHei"}, {"font_size": "21", "text": "年内", "font": "Microsoft JhengHei"}, {"font_size": "21", "text": "分类分步推进整改和清退工作已给出时间表，围绕", "font": "宋体"}, {"font_size": "21", "text": "“4+4”", "font": ""}, {"font_size": "21", "text": "彻底重塑清晰的品牌", "font": "宋体"}, {"font_size": "21", "text": "和产品结构。", "font": "宋体"}, {"font_size": "21", "text": "（", "font": "Microsoft JhengHei"}, {"font_size": "21", "text": "3", "font": ""}, {"font_size": "21", "text": "）", "font": "Microsoft JhengHei"}, {"font_size": "21", "text": "全国公开招聘市场业务人员，团队搭建加速营销改革落地。", "font": "宋体"}, {"font_size": "21", "text": "公司近期下发全国公开招聘市场营销业务人员公告，拟对标一线高薪酒企标准招聘战区及基层团队人员。当前改革进入落地关键期，管理层推进雷厉风行，顺利落地值得期待，为后续新品顺价、量价均衡提供保障。", "font": "Microsoft JhengHei"}, {"font_size": "21", "text": "投资建议：开门红奠基全年，改革有望再添力，上调目标价至 ", "font": "Microsoft JhengHei"}, {"font_size": "21", "text": "117 ", "font": ""}, {"font_size": "21", "text": "元，重申", "font": "宋体"}, {"font_size": "", "text": "强烈推荐。", "font": "Microsoft JhengHei"}, {"font_size": "", "text": "我们 ", "font": "宋体"}, {"font_size": "", "text": "3", "font": "Arial"}, {"font_size": "", "text": " ", "font": "Arial"}, {"font_size": "", "text": "月以来连续发布报告分析并强调五粮液改革推进加速，及", "font": "宋体"}, {"font_size": "", "text": "业绩预期有望上调的潜力，在近期改革政策落地及一季报均得到验证，唯期", "font": "宋体"}, {"font_size": "", "text": "待改革红利能够持续释放，实现新品顺价、量价均衡。我们暂维持 ", "font": "宋体"}, {"font_size": "", "text": "19-20", "font": "Arial"}, {"font_size": "", "text": " ", "font": "Arial"}, {"font_size": "", "text": "年", "font": "宋体"}, {"font_size": "", "text": "EPS ", "font": "Arial"}, {"font_size": "", "text": "预测 ", "font": "宋体"}, {"font_size": "", "text": "4.24", "font": "Arial"}, {"font_size": "", "text": "、", "font": "宋体"}, {"font_size": "", "text": "5.08 ", "font": "Arial"}, {"font_size": "", "text": "元，在公司改革持续深化背景下，估值折价有望改善， ", "font": "宋体"}, {"font_size": "", "text": "给予 ", "font": "宋体"}, {"font_size": "", "text": "20 ", "font": "Arial"}, {"font_size": "", "text": "年 ", "font": "宋体"}, {"font_size": "", "text": "23 ", "font": "Arial"}, {"font_size": "", "text": "倍", "font": "宋体"}, {"font_size": "", "text": "PE", "font": "Arial"}, {"font_size": "", "text": "，给予 ", "font": "宋体"}, {"font_size": "", "text": "20 ", "font": "Arial"}, {"font_size": "", "text": "年 ", "font": "宋体"}, {"font_size": "", "text": "23 ", "font": "Arial"}, {"font_size": "", "text": "倍 ", "font": "宋体"}, {"font_size": "", "text": "PE", "font": "Arial"}, {"font_size": "", "text": "，上调目标价至 ", "font": "宋体"}, {"font_size": "", "text": "117 ", "font": "Arial"}, {"font_size": "21", "text": "元，重申强烈推荐。", "font": "Microsoft JhengHei"}]
+{'style': 'position:absolute;margin-left:217.210007pt;margin-top:267.534973pt;width:359.05pt;height:490pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59608', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:200.289993pt;margin-top:269.814087pt;width:8.7pt;height:10.4pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59584', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:200.289993pt;margin-top:395.954102pt;width:8.7pt;height:10.4pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59560', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:200.289993pt;margin-top:481.274109pt;width:8.7pt;height:10.4pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59536', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:200.289993pt;margin-top:648.344116pt;width:8.7pt;height:10.4pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59512', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:200.289993pt;margin-top:747.24408pt;width:8.7pt;height:10.4pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59488', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:47pt;margin-top:790.825623pt;width:101pt;height:11pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59464', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "", "text": "公司一季度收入利润符合乐观预期，", "font": "宋体"}, {"font_size": "", "text": "19 ", "font": "Arial"}, {"font_size": "", "text": "年开门红顺利达成，现金流靓丽，受打款", "font": "宋体"}, {"font_size": "", "text": "政策改变影响，预收账款同比略降，报表质量优异，改革过程中余量充足。公司年初控盘分利切中改革要点，提价后顺价销售概率高，当前进入改革落地关键时", "font": "宋体"}, {"font_size": "", "text": "间点，期待公司强化团队执行力，更大程度释放改革红利。暂维持 ", "font": "宋体"}, {"font_size": "", "text": "19-20 ", "font": "Arial"}, {"font_size": "", "text": "年", "font": "宋体"}, {"font_size": "", "text": "EPS ", "font": "Arial"}, {"font_size": "", "text": "预测 ", "font": "宋体"}, {"font_size": "", "text": "4.24", "font": "Arial"}, {"font_size": "", "text": "、", "font": "宋体"}, {"font_size": "", "text": "5.08 ", "font": "Arial"}, {"font_size": "", "text": "元，在公司改革持续深化背景下，估值折价有望改善，给予 ", "font": "宋体"}, {"font_size": "", "text": "20 ", "font": "Arial"}, {"font_size": "", "text": "年 ", "font": "宋体"}, {"font_size": "", "text": "23 ", "font": "Arial"}, {"font_size": "", "text": "倍", "font": "宋体"}, {"font_size": "", "text": "PE", "font": "Arial"}, {"font_size": "", "text": "，上调目标价至 ", "font": "宋体"}, {"font_size": "", "text": "117 ", "font": "Arial"}, {"font_size": "", "text": "元，重申“强烈推荐", "font": "宋体"}, {"font_size": "", "text": "-A", "font": "Arial"}]
+{'style': 'position:absolute;margin-left:200.330002pt;margin-top:179.299973pt;width:371pt;height:81.75pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59440', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "基础数据", "font": "楷体"}, {"font_size": "18", "text": "上证综指\t", "font": "楷体"}, {"font_size": "18", "text": "3086", "font": ""}, {"font_size": "18", "text": "总股本（万股）\t", "font": "楷体"}, {"font_size": "18", "text": "388161", "font": ""}, {"font_size": "18", "text": "已上市流通股（万股）\t", "font": "楷体"}, {"font_size": "18", "text": "379577", "font": ""}, {"font_size": "18", "text": "总市值（亿元）\t", "font": "楷体"}, {"font_size": "18", "text": "3970", "font": ""}, {"font_size": "18", "text": "流通市值（亿元）\t", "font": "楷体"}, {"font_size": "18", "text": "3882", "font": ""}, {"font_size": "18", "text": "每股净资产（", "font": "楷体"}, {"font_size": "18", "text": "MRQ", "font": ""}, {"font_size": "18", "text": "）", "font": "楷体"}, {"font_size": "18", "text": "\t18.0", "font": ""}, {"font_size": "18", "text": "ROE", "font": ""}, {"font_size": "18", "text": "（", "font": "楷体"}, {"font_size": "18", "text": "TTM", "font": ""}, {"font_size": "18", "text": "）", "font": "楷体"}, {"font_size": "18", "text": "\t21.3", "font": ""}, {"font_size": "18", "text": "资产负债率\t", "font": "楷体"}, {"font_size": "18", "text": "%", "font": "楷体"}, {"font_size": "18", "text": "主要股东\t", "font": "楷体"}, {"font_size": "18", "text": "宜宾市国有资产经营", "font": "楷体"}, {"font_size": "18", "text": "主要股东持股比例\t", "font": "楷体"}, {"font_size": "21", "text": "35.21%", "font": "楷体"}, {"font_size": "18", "text": "股价表现", "font": "楷体"}, {"font_size": "18", "text": "%\t1m\t6m\t12m", "font": ""}, {"font_size": "18", "text": "绝对表现\t", "font": "楷体"}, {"font_size": "18", "text": "23\t87\t44", "font": ""}, {"font_size": "18", "text": "相对表现\t", "font": "楷体"}, {"font_size": "14", "text": "18\t64\t40", "font": "宋体"}, {"font_size": "16", "text": "(%)\t", "font": ""}, {"font_size": "14", "text": "五粮液\t", "font": "宋体"}, {"font_size": "15", "text": "沪深300", "font": "宋体"}, {"font_size": "15", "text": "60", "font": ""}, {"font_size": "15", "text": "40", "font": ""}, {"font_size": "15", "text": "20", "font": ""}, {"font_size": "15", "text": "0", "font": ""}, {"font_size": "15", "text": "-20", "font": ""}, {"font_size": "21", "text": "-40", "font": "楷体"}, {"font_size": "15", "text": "Mar/18\tJul/18\tNov/18\t", "font": ""}, {"font_size": "15", "text": "Mar/19 ", "font": ""}, {"font_size": "18", "text": "资料来源：贝格数据、招商证券 ", "font": "楷体"}, {"font_size": "18", "text": "相关报告", "font": "楷体"}, {"font_size": "18", "text": "1", "font": ""}, {"font_size": "18", "text": "、《五粮液", "font": "楷体"}, {"font_size": "18", "text": "（", "font": "楷体"}, {"font_size": "18", "text": "0", "font": ""}, {"font_size": "18", "text": "0", "font": ""}, {"font_size": "18", "text": "08", "font": ""}, {"font_size": "18", "text": "5", "font": ""}, {"font_size": "18", "text": "8", "font": ""}, {"font_size": "18", "text": "）", "font": "楷体"}, {"font_size": "18", "text": "：春华望秋实岁物待丰成", "font": "楷体"}, {"font_size": "18", "text": "—18 ", "font": ""}, {"font_size": "18", "text": "年年报点评暨 ", "font": "楷体"}, {"font_size": "18", "text": "19 ", "font": ""}, {"font_size": "18", "text": "春", "font": "楷体"}, {"font_size": "18", "text": "糖见闻之二》", "font": "楷体"}, {"font_size": "18", "text": "2019-03-28", "font": ""}, {"font_size": "18", "text": "2", "font": ""}, {"font_size": "18", "text": "、《五粮液（", "font": "楷体"}, {"font_size": "18", "text": "000858", "font": ""}, {"font_size": "18", "text": "）", "font": "楷体"}, {"font_size": "18", "text": "—", "font": ""}, {"font_size": "18", "text": "营销改革", "font": "楷体"}, {"font_size": "18", "text": "落地，普五蓄势提价》", "font": "楷体"}, {"font_size": "18", "text": "2019-03-04", "font": ""}, {"font_size": "18", "text": "3", "font": ""}, {"font_size": "18", "text": "、《五粮液（", "font": "楷体"}, {"font_size": "18", "text": "000858", "font": ""}, {"font_size": "18", "text": "）", "font": "楷体"}, {"font_size": "18", "text": "—", "font": ""}, {"font_size": "18", "text": "来年目标", "font": "楷体"}, {"font_size": "18", "text": "积极，期待改革加速》", "font": "楷体"}, {"font_size": "21", "text": "2018-12-21", "font": "楷体"}, {"font_size": "18", "text": "杨勇胜", "font": "楷体"}, {"font_size": "18", "text": "021-68407562", "font": ""}, {"font_size": "18", "text": "yangys5@cmschina.com.cn", "font": ""}, {"font_size": "18", "text": " S1090514060001", "font": ""}, {"font_size": "21", "text": "欧阳予", "font": "楷体"}, {"font_size": "18", "text": "ouyangyu@cmschina.com.cn", "font": ""}]
+{'style': 'position:absolute;margin-left:42.599998pt;margin-top:179.299973pt;width:150.050pt;height:593.4pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59416', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:63.574001pt;margin-top:402.809967pt;width:111.6pt;height:51.7pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59392', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:63.574001pt;margin-top:454.469666pt;width:66.05pt;height:7.2pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59368', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:129.600006pt;margin-top:454.469666pt;width:6.55pt;height:17.9pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59344', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:142.199997pt;margin-top:454.469666pt;width:13pt;height:17.9pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59320', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:155.160004pt;margin-top:454.469666pt;width:7.65pt;height:8.65pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59296', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:162.779999pt;margin-top:454.469666pt;width:6.1pt;height:17.9pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59272', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:168.839996pt;margin-top:454.469666pt;width:6.3pt;height:17.9pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59248', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:63.574001pt;margin-top:461.669678pt;width:5.5pt;height:10.7pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59224', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:69.059998pt;margin-top:461.669678pt;width:4.9pt;height:10.7pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59200', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:73.919998pt;margin-top:461.669678pt;width:9.4pt;height:10.7pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59176', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:83.279999pt;margin-top:461.669678pt;width:6.55pt;height:10.7pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59152', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:89.782578pt;margin-top:461.669678pt;width:8.15pt;height:10.7pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59128', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:97.919998pt;margin-top:461.669678pt;width:7.6pt;height:10.7pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59104', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:105.480003pt;margin-top:461.669678pt;width:5.65pt;height:10.7pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59080', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:111.120003pt;margin-top:461.669678pt;width:10.7pt;height:10.7pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59056', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:121.79258pt;margin-top:461.669678pt;width:7.85pt;height:10.7pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59032', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:155.160004pt;margin-top:463.10965pt;width:7.65pt;height:9.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-59008', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "28", "text": "强烈推荐", "font": "楷体"}, {"font_size": "28", "text": "-A", "font": ""}]
+{'style': 'position:absolute;margin-left:42.599998pt;margin-top:78.00798pt;width:153.050pt;height:47.45pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58984', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "36", "text": "五粮液 ", "font": "楷体"}]
+{'style': 'position:absolute;margin-left:195.649994pt;margin-top:78.00798pt;width:380pt;height:47.45pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58960', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:69.596001pt;margin-top:380.679993pt;width:19.2pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58936', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:127.120003pt;margin-top:380.679993pt;width:19.2pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58912', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:42.599998pt;margin-top:778.119995pt;width:117.05pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58888', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:522.179993pt;margin-top:59.545605pt;width:38.1pt;height:11pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58624', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "21", "text": "表 ", "font": "楷体"}, {"font_size": "21", "text": "1", "font": ""}]
+{'style': 'position:absolute;margin-left:41.599998pt;margin-top:80.060287pt;width:126.4pt;height:13.8pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58600', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:41.599998pt;margin-top:573.125610pt;width:83pt;height:11pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58576', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "21", "text": "图 ", "font": "楷体"}, {"font_size": "21", "text": "1", "font": ""}, {"font_size": "21", "text": "：五粮液历史 ", "font": "楷体"}]
+{'style': 'position:absolute;margin-left:41.599998pt;margin-top:604.420288pt;width:130.1pt;height:13.8pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58552', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "21", "text": "图 ", "font": "楷体"}, {"font_size": "21", "text": "2", "font": ""}, {"font_size": "21", "text": "：五粮液历史 ", "font": "楷体"}]
+{'style': 'position:absolute;margin-left:307.690002pt;margin-top:604.420288pt;width:130.7pt;height:13.8pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58528', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:52.880001pt;margin-top:620.88562pt;width:20.05pt;height:11pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58504', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:318.989990pt;margin-top:620.88562pt;width:20.05pt;height:11pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58480', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "16", "text": "100", "font": ""}, {"font_size": "16", "text": "90", "font": ""}, {"font_size": "16", "text": "80", "font": ""}, {"font_size": "16", "text": "70", "font": ""}, {"font_size": "16", "text": "60", "font": ""}, {"font_size": "16", "text": "50", "font": ""}, {"font_size": "16", "text": "40", "font": ""}, {"font_size": "16", "text": "30", "font": ""}, {"font_size": "16", "text": "20", "font": ""}]
+{'style': 'position:absolute;margin-left:43.063999pt;margin-top:628.491577pt;width:15.3pt;height:105.8pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58456', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:309.149994pt;margin-top:628.491577pt;width:15.3pt;height:11pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58432', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "16", "text": "30x 25x", "font": ""}]
+{'style': 'position:absolute;margin-left:274.179993pt;margin-top:634.941589pt;width:14.85pt;height:44.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58408', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "16", "text": "90", "font": ""}, {"font_size": "16", "text": "80", "font": ""}, {"font_size": "16", "text": "70", "font": ""}, {"font_size": "16", "text": "60", "font": ""}, {"font_size": "16", "text": "50", "font": ""}, {"font_size": "16", "text": "40", "font": ""}, {"font_size": "16", "text": "30", "font": ""}, {"font_size": "16", "text": "20", "font": ""}, {"font_size": "16", "text": "10", "font": ""}]
+{'style': 'position:absolute;margin-left:313.619995pt;margin-top:639.021606pt;width:10.9pt;height:105.8pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58384', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "16", "text": "6.4x", "font": ""}, {"font_size": "16", "text": "5.7x", "font": ""}, {"font_size": "16", "text": "4.9x", "font": ""}, {"font_size": "16", "text": "4.2x", "font": ""}]
+{'style': 'position:absolute;margin-left:537.98999pt;margin-top:641.621582pt;width:17.150pt;height:53.65pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58360', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "16", "text": "15x", "font": ""}]
+{'style': 'position:absolute;margin-left:274.179993pt;margin-top:684.601563pt;width:14.85pt;height:27.55pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58336', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:51.967999pt;margin-top:733.801575pt;width:6.45pt;height:11pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58312', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:53.167999pt;margin-top:743.32959pt;width:26.85pt;height:11pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58288', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:87.344002pt;margin-top:743.32959pt;width:95.55pt;height:11pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58264', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:189.679993pt;margin-top:743.32959pt;width:61.5pt;height:11pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58240', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:319.260010pt;margin-top:743.32959pt;width:26.85pt;height:11pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58216', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:353.429993pt;margin-top:743.32959pt;width:95.6pt;height:11pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58192', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:455.769989pt;margin-top:743.32959pt;width:61.5pt;height:11pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58168', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:41.599998pt;margin-top:761.425598pt;width:128pt;height:11pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58144', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:307.690002pt;margin-top:761.425598pt;width:128pt;height:11pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58120', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:47pt;margin-top:789.265625pt;width:101pt;height:11pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58096', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:510.700012pt;margin-top:787.079956pt;width:53.95pt;height:15.6pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58072', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:332.559998pt;margin-top:634.169983pt;width:22.3pt;height:65.8pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58048', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:354.839996pt;margin-top:634.169983pt;width:182.7pt;height:105.3pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58024', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:332.559998pt;margin-top:699.954956pt;width:22.3pt;height:39.550pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-58000', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:361.200012pt;margin-top:699.47998pt;width:8.0500pt;height:.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57976', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:401.220001pt;margin-top:695.639954pt;width:72.2pt;height:.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57952', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:474.929993pt;margin-top:648.479980pt;width:62.3pt;height:41pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57928', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:363.420013pt;margin-top:690.959961pt;width:.1pt;height:.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57904', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:361.200012pt;margin-top:682.440002pt;width:8.0500pt;height:.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57880', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:488.100006pt;margin-top:678.799988pt;width:49.1pt;height:.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57856', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:363.420013pt;margin-top:673.919983pt;width:.1pt;height:.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57832', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:488.100006pt;margin-top:668.139954pt;width:49.1pt;height:.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57808', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:361.200012pt;margin-top:665.399963pt;width:8.0500pt;height:.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57784', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:488.100006pt;margin-top:657.48999pt;width:49.1pt;height:.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57760', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:488.100006pt;margin-top:646.829956pt;width:49.1pt;height:.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57736', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:66.505997pt;margin-top:634.169983pt;width:205pt;height:105.3pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57712', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:42.599998pt;margin-top:93.739975pt;width:108.65pt;height:13.3pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57688', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:151.220001pt;margin-top:93.739975pt;width:337.65pt;height:13.3pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57664', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:488.860016pt;margin-top:93.739975pt;width:86.2pt;height:13.3pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57640', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "20", "text": "一、营业总收入", "font": "楷体"}, {"font_size": "20", "text": "二、营业总成本 ", "font": "楷体"}, {"font_size": "20", "text": "其中：营业成本", "font": "楷体"}, {"font_size": "20", "text": "营业税金及附加", "font": "楷体"}, {"font_size": "20", "text": "营业费用", "font": "楷体"}, {"font_size": "20", "text": "管理费用研发费用", "font": "楷体"}, {"font_size": "20", "text": "财务费用", "font": "楷体"}, {"font_size": "20", "text": "资产减值损失 ", "font": "楷体"}, {"font_size": "20", "text": "三、其他经营收益", "font": "楷体"}, {"font_size": "20", "text": "公允价值变动收益", "font": "楷体"}, {"font_size": "20", "text": "投资收益", "font": "楷体"}, {"font_size": "20", "text": "其他收益", "font": "楷体"}, {"font_size": "20", "text": "资产处置收益四、营业利润 加：营业外收入减：营业外支出五、利润总额 减：所得税", "font": "楷体"}, {"font_size": "20", "text": "六、净利润", "font": "楷体"}, {"font_size": "20", "text": "减：少数股东损益", "font": "楷体"}]
+{'style': 'position:absolute;margin-left:42.599998pt;margin-top:106.999977pt;width:108.65pt;height:292.55pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57616', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "20", "text": "5462\t6356\t8209\t13898\t7524\t7829\t10780\t17590", "font": ""}, {"font_size": "20", "text": "3462\t3670\t4603\t7014\t4645\t4523\t5342\t8432", "font": ""}, {"font_size": "20", "text": "1435\t1922\t2100\t3726\t2093\t1941\t2727\t4260", "font": ""}, {"font_size": "20", "text": "667\t902\t", "font": ""}, {"font_size": "20", "text": "1164\t", "font": ""}, {"font_size": "20", "text": "1955\t1072\t1373\t1509\t2453", "font": ""}, {"font_size": "20", "text": "1078\t522\t929\t1003\t", "font": ""}, {"font_size": "20", "text": "1153\t", "font": ""}, {"font_size": "20", "text": "921\t701\t1274", "font": ""}, {"font_size": "20", "text": "492\t537\t656\t595\t587\t532\t667\t777", "font": ""}, {"font_size": "20", "text": "23\t21\t22", "font": ""}, {"font_size": "20", "text": "(211)\t", "font": ""}, {"font_size": "20", "text": "(212)\t(251)\t(264)\t(262)\t(268)\t(291)\t(353)", "font": ""}, {"font_size": "20", "text": "1\t0\t4\t0\t3\t0\t8\t0", "font": ""}, {"font_size": "20", "text": "22\t0\t120\t10\t57\t16\t129\t25", "font": ""}, {"font_size": "20", "text": "0\t0\t0\t0\t0\t0\t0\t0", "font": ""}, {"font_size": "20", "text": "22\t0\t46\t0\t50\t0\t51\t0", "font": ""}, {"font_size": "20", "text": "70\t10\t8\t16\t72\t24", "font": ""}, {"font_size": "20", "text": "4\t(0)\t(0)\t(0)\t6\t0", "font": ""}, {"font_size": "20", "text": "2023\t2686\t3726\t6894\t2936\t3322\t5567\t9183", "font": ""}, {"font_size": "20", "text": "29\t19\t(22)\t15\t37\t23\t(31)\t5", "font": ""}, {"font_size": "20", "text": "9\t6\t8\t5\t21\t10\t", "font": ""}, {"font_size": "20", "text": "119\t115", "font": ""}, {"font_size": "20", "text": "2043\t2698\t3697\t6903\t2952\t3335\t5416\t9073", "font": ""}, {"font_size": "20", "text": "593\t623\t876\t1689\t702\t835\t1341\t2261", "font": ""}, {"font_size": "20", "text": "1451\t2075\t2821\t5214\t2250\t2500\t4075\t6812", "font": ""}, {"font_size": "20", "text": "72\t82\t", "font": ""}, {"font_size": "20", "text": "112\t", "font": ""}, {"font_size": "20", "text": "243\t", "font": ""}, {"font_size": "20", "text": "111\t", "font": ""}, {"font_size": "20", "text": "115\t", "font": ""}, {"font_size": "20", "text": "185\t337", "font": ""}]
+{'style': 'position:absolute;margin-left:151.220001pt;margin-top:106.999977pt;width:337.65pt;height:292.55pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57592', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "20", "text": "30187\t40030", "font": ""}, {"font_size": "20", "text": "16954\t21524", "font": ""}, {"font_size": "20", "text": "8450\t10487", "font": ""}, {"font_size": "20", "text": "3495\t5908", "font": ""}, {"font_size": "20", "text": "3625\t3778", "font": ""}, {"font_size": "20", "text": "2269\t2340", "font": ""}, {"font_size": "20", "text": "0\t84", "font": ""}, {"font_size": "20", "text": "(891)\t(1085)", "font": ""}, {"font_size": "20", "text": "6\t", "font": ""}, {"font_size": "20", "text": "11", "font": ""}, {"font_size": "20", "text": "142\t212", "font": ""}, {"font_size": "20", "text": "0\t0", "font": ""}, {"font_size": "20", "text": "68\t101", "font": ""}, {"font_size": "20", "text": "70\t106", "font": ""}, {"font_size": "20", "text": "4\t5", "font": ""}, {"font_size": "20", "text": "13375\t18718", "font": ""}, {"font_size": "20", "text": "45\t44", "font": ""}, {"font_size": "20", "text": "28\t155", "font": ""}, {"font_size": "20", "text": "13392\t18607", "font": ""}, {"font_size": "20", "text": "3306\t4568", "font": ""}, {"font_size": "20", "text": "10086\t14039", "font": ""}, {"font_size": "20", "text": "412\t654", "font": ""}]
+{'style': 'position:absolute;margin-left:488.860016pt;margin-top:106.999977pt;width:86.2pt;height:292.55pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57568', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:42.599998pt;margin-top:399.549988pt;width:108.65pt;height:13.35pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57544', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:151.220001pt;margin-top:399.549988pt;width:337.65pt;height:13.35pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57520', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:488.860016pt;margin-top:399.549988pt;width:86.2pt;height:13.35pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57496', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "20", "text": "主要比率", "font": "楷体"}, {"font_size": "20", "text": "毛利率", "font": "楷体"}, {"font_size": "20", "text": "主营税金率营业费率 管理费率 营业利润率实际税率 净 利 率 ", "font": "楷体"}, {"font_size": "20", "text": "YoY", "font": "楷体"}, {"font_size": "20", "text": "收入增长率", "font": "楷体"}, {"font_size": "20", "text": "营业利润增长率", "font": "楷体"}]
+{'style': 'position:absolute;margin-left:42.599998pt;margin-top:412.869965pt;width:108.65pt;height:159.75pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57472', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "20", "text": "73.7%\t69.8%\t74.4%\t73.2%\t72.2%\t75.2%\t74.7%\t75.8%", "font": "Times New Roman"}, {"font_size": "20", "text": "12.2%\t14.2%\t14.2%\t14.1%\t14.2%\t17.5%\t14.0%\t13.9%", "font": ""}, {"font_size": "20", "text": "19.7%\t8.2%\t", "font": ""}, {"font_size": "20", "text": "11.3%\t", "font": ""}, {"font_size": "20", "text": "7.2%\t15.3%\t", "font": ""}, {"font_size": "20", "text": "11.8%\t", "font": ""}, {"font_size": "20", "text": "6.5%\t7.2%", "font": ""}, {"font_size": "20", "text": "9.0%\t8.4%\t8.0%\t4.3%\t7.8%\t7.1%\t6.4%\t4.5%", "font": ""}, {"font_size": "20", "text": "37.0%\t42.3%\t45.4%\t49.6%\t39.0%\t42.4%\t51.6%\t52.2%", "font": ""}, {"font_size": "20", "text": "29.0%\t23.1%\t23.7%\t24.5%\t23.8%\t25.0%\t24.8%\t24.9%", "font": ""}, {"font_size": "20", "text": "25.2%\t31.4%\t33.0%\t35.8%\t28.4%\t30.5%\t36.1%\t36.8%", "font": "Times New Roman"}, {"font_size": "20", "text": "23.3%\t43.0%\t19.9%\t36.8%\t37.7%\t23.2%\t31.3%\t26.6%", "font": ""}, {"font_size": "20", "text": "52.1%\t61.5%\t63.3%\t39.6%\t45.1%\t23.7%\t49.4%\t33.2%", "font": ""}]
+{'style': 'position:absolute;margin-left:151.220001pt;margin-top:412.869965pt;width:337.65pt;height:159.75pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57448', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "20", "text": "72.0%\t73.8%", "font": "Times New Roman"}, {"font_size": "20", "text": "11.6%\t", "font": ""}, {"font_size": "20", "text": "14.8%", "font": ""}, {"font_size": "20", "text": "12.0%\t9.4%", "font": ""}, {"font_size": "20", "text": "7.5%\t6.1%", "font": ""}, {"font_size": "20", "text": "44.3%\t46.8%", "font": ""}, {"font_size": "20", "text": "24.7%\t24.6%", "font": ""}, {"font_size": "20", "text": "32.0%\t33.4%", "font": "Times New Roman"}, {"font_size": "20", "text": "23.0%\t32.6%", "font": ""}, {"font_size": "20", "text": "44.8%\t40.0%", "font": ""}]
+{'style': 'position:absolute;margin-left:488.860016pt;margin-top:412.869965pt;width:86.2pt;height:159.75pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57424', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:41.880001pt;margin-top:62.929977pt;width:522.85pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57400', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:42.599998pt;margin-top:607.459961pt;width:255.65pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57376', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:308.690002pt;margin-top:607.459961pt;width:255.65pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57352', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:42.599998pt;margin-top:749.559998pt;width:255.65pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57328', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:308.690002pt;margin-top:749.559998pt;width:255.65pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57304', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:42.599998pt;margin-top:775.599976pt;width:117.05pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57280', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:522.179993pt;margin-top:59.545605pt;width:38.1pt;height:11pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57160', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:167.619995pt;margin-top:100.464981pt;width:54.8pt;height:12.6pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57136', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "", "text": "1", "font": "Arial"}, {"font_size": "", "text": "、《五粮液", "font": ""}, {"font_size": "", "text": "（", "font": ""}, {"font_size": "", "text": "000858", "font": "Arial"}, {"font_size": "", "text": "）", "font": ""}, {"font_size": "", "text": "：春华望秋实，岁物待丰成", "font": ""}, {"font_size": "", "text": "—18 ", "font": "Arial"}, {"font_size": "", "text": "年年报点评暨 ", "font": ""}, {"font_size": "", "text": "19 ", "font": "Arial"}, {"font_size": "", "text": "春糖见闻之", "font": "Arial"}, {"font_size": "", "text": "二》", "font": ""}, {"font_size": "", "text": "2019-03-28", "font": "Arial"}, {"font_size": "", "text": "2", "font": "Arial"}, {"font_size": "", "text": "、《五粮液（", "font": ""}, {"font_size": "", "text": "000858", "font": "Arial"}, {"font_size": "", "text": "）", "font": ""}, {"font_size": "", "text": "—", "font": "Arial"}, {"font_size": "", "text": "营销改革落地，普五蓄势提价》", "font": ""}, {"font_size": "", "text": "2019-03-04", "font": "Arial"}, {"font_size": "", "text": "3", "font": "Arial"}, {"font_size": "", "text": "、《五粮液（", "font": ""}, {"font_size": "", "text": "000858", "font": "Arial"}, {"font_size": "", "text": "）", "font": ""}, {"font_size": "", "text": "—", "font": "Arial"}, {"font_size": "", "text": "来年目标积极，期待改革加速》", "font": ""}, {"font_size": "", "text": "2018-12-21", "font": "Arial"}, {"font_size": "", "text": "4", "font": "Arial"}, {"font_size": "", "text": "、《五粮液（", "font": ""}, {"font_size": "", "text": "000858", "font": "Arial"}, {"font_size": "", "text": "）", "font": ""}, {"font_size": "", "text": "—", "font": "Arial"}, {"font_size": "", "text": "收入稳健增长，期待改革加码》", "font": ""}, {"font_size": "", "text": "2018-10-29", "font": "Arial"}, {"font_size": "", "text": "5", "font": "Arial"}, {"font_size": "", "text": "、《五粮液（", "font": ""}, {"font_size": "", "text": "000858", "font": "Arial"}, {"font_size": "", "text": "）", "font": ""}, {"font_size": "", "text": "—", "font": "Arial"}, {"font_size": "", "text": "报表再度高增，静待改革深化》", "font": ""}, {"font_size": "", "text": "2018-08-28", "font": "Arial"}, {"font_size": "", "text": "6", "font": "Arial"}, {"font_size": "", "text": "、《五粮液（", "font": ""}, {"font_size": "", "text": "000858", "font": "Arial"}, {"font_size": "", "text": "）", "font": ""}, {"font_size": "", "text": "—", "font": "Arial"}, {"font_size": "", "text": "改革攻坚，戮力前行》", "font": ""}, {"font_size": "", "text": "2018-06-12", "font": "Arial"}, {"font_size": "", "text": "7", "font": "Arial"}, {"font_size": "", "text": "、《五粮液（", "font": ""}, {"font_size": "", "text": "000858", "font": "Arial"}, {"font_size": "", "text": "）", "font": ""}, {"font_size": "", "text": "—", "font": "Arial"}, {"font_size": "", "text": "改革红利释放，高增长可看全年》", "font": ""}, {"font_size": "", "text": "2018-04-30", "font": "Arial"}, {"font_size": "", "text": "8", "font": "Arial"}, {"font_size": "", "text": "、《五粮液（", "font": ""}, {"font_size": "", "text": "000858", "font": "Arial"}, {"font_size": "", "text": "）", "font": ""}, {"font_size": "", "text": "—2018 ", "font": "Arial"}, {"font_size": "", "text": "年春季糖酒会见闻录之二》", "font": ""}, {"font_size": "", "text": "2018-04-01", "font": "Arial"}, {"font_size": "", "text": "9", "font": "Arial"}, {"font_size": "", "text": "、《五粮液（", "font": ""}, {"font_size": "", "text": "000858", "font": "Arial"}, {"font_size": "", "text": "）", "font": ""}, {"font_size": "", "text": "—", "font": "Arial"}, {"font_size": "", "text": "估值折价之谜》", "font": ""}, {"font_size": "", "text": "2017-05-29", "font": "Arial"}, {"font_size": "", "text": "再次建议阅读本篇五粮液深度报告，详细阐述造成五粮液估值折价的四大因素，以及当", "font": ""}]
+{'style': 'position:absolute;margin-left:167.619995pt;margin-top:122.780289pt;width:397.8pt;height:216.85pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57112', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:47pt;margin-top:789.265625pt;width:101pt;height:11pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57088', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:510.700012pt;margin-top:787.079956pt;width:53.95pt;height:15.6pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57064', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:41.880001pt;margin-top:62.929977pt;width:522.85pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57040', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:167.179993pt;margin-top:105.659973pt;width:398.6pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-57016', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:42.599998pt;margin-top:775.599976pt;width:117.05pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56992', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:522.179993pt;margin-top:59.545605pt;width:38.1pt;height:11pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56656', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:41.599998pt;margin-top:80.747475pt;width:525.15pt;height:14pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56632', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:41.599998pt;margin-top:102.024979pt;width:54.8pt;height:12.6pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56608', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:308.049988pt;margin-top:102.024979pt;width:33.65pt;height:12.6pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56584', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "流动资产", "font": "楷体"}, {"font_size": "18", "text": "现金", "font": "楷体"}, {"font_size": "18", "text": "交易性投资应收票据 应收款项 其它应收款存货", "font": "楷体"}, {"font_size": "18", "text": "其他", "font": "楷体"}, {"font_size": "18", "text": "非流动资产", "font": "楷体"}, {"font_size": "18", "text": "长期股权投资固定资产", "font": "楷体"}, {"font_size": "18", "text": "无形资产其他", "font": "楷体"}]
+{'style': 'position:absolute;margin-left:42.080002pt;margin-top:131.205597pt;width:66.55pt;height:180.75pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56560', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "63280", "font": ""}, {"font_size": "18", "text": "40592", "font": ""}, {"font_size": "18", "text": "0", "font": ""}, {"font_size": "18", "text": "11188", "font": ""}, {"font_size": "18", "text": "110", "font": ""}, {"font_size": "18", "text": "21", "font": ""}]
+{'style': 'position:absolute;margin-left:121.540001pt;margin-top:131.512512pt;width:27.2pt;height:90.45pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56536', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "78110", "font": ""}, {"font_size": "18", "text": "48960", "font": ""}, {"font_size": "18", "text": "0", "font": ""}, {"font_size": "18", "text": "16135", "font": ""}, {"font_size": "18", "text": "127", "font": ""}, {"font_size": "18", "text": "0", "font": ""}]
+{'style': 'position:absolute;margin-left:158.020004pt;margin-top:131.512512pt;width:27.2pt;height:90.45pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56512', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "91281", "font": ""}, {"font_size": "18", "text": "58359", "font": ""}, {"font_size": "18", "text": "0", "font": ""}, {"font_size": "18", "text": "18178", "font": ""}, {"font_size": "18", "text": "278", "font": ""}, {"font_size": "18", "text": "45", "font": ""}]
+{'style': 'position:absolute;margin-left:194.529999pt;margin-top:131.512512pt;width:27.2pt;height:90.45pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56488', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "104921", "font": ""}, {"font_size": "18", "text": "68199", "font": ""}, {"font_size": "18", "text": "0", "font": ""}, {"font_size": "18", "text": "20445", "font": ""}, {"font_size": "18", "text": "322", "font": ""}, {"font_size": "18", "text": "51", "font": ""}]
+{'style': 'position:absolute;margin-left:226.089996pt;margin-top:131.512512pt;width:32.1pt;height:90.45pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56464', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "121036", "font": ""}, {"font_size": "18", "text": "79644", "font": ""}, {"font_size": "18", "text": "0", "font": ""}, {"font_size": "18", "text": "23091", "font": ""}, {"font_size": "18", "text": "373", "font": ""}, {"font_size": "18", "text": "60", "font": ""}]
+{'style': 'position:absolute;margin-left:262.690002pt;margin-top:131.512512pt;width:32.1pt;height:90.45pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56440', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "营业收入", "font": "楷体"}, {"font_size": "18", "text": "营业成本", "font": "楷体"}, {"font_size": "18", "text": "营业税金及附加营业费用", "font": "楷体"}, {"font_size": "18", "text": "管理费用财务费用", "font": "楷体"}, {"font_size": "18", "text": "资产减值损失", "font": "楷体"}, {"font_size": "18", "text": "公允价值变动收益投资收益", "font": "楷体"}, {"font_size": "18", "text": "营业利润", "font": "楷体"}, {"font_size": "18", "text": "营业外收入营业外支出", "font": "楷体"}, {"font_size": "18", "text": "利润总额", "font": "楷体"}, {"font_size": "18", "text": "所得税", "font": "楷体"}, {"font_size": "18", "text": "净利润", "font": "楷体"}, {"font_size": "18", "text": "少数股东损益", "font": "楷体"}, {"font_size": "18", "text": "归属于母公司净利润", "font": "楷体"}, {"font_size": "18", "text": "EPS", "font": ""}]
+{'style': 'position:absolute;margin-left:308.529999pt;margin-top:131.205597pt;width:70.650pt;height:233.6pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56416', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "30187", "font": ""}, {"font_size": "18", "text": "8450", "font": ""}, {"font_size": "18", "text": "3495", "font": ""}, {"font_size": "18", "text": "3625", "font": ""}, {"font_size": "18", "text": "2269", "font": ""}, {"font_size": "18", "text": "(891)", "font": ""}, {"font_size": "18", "text": "6", "font": ""}, {"font_size": "18", "text": "0", "font": ""}]
+{'style': 'position:absolute;margin-left:391.709991pt;margin-top:131.512512pt;width:27.2pt;height:116.5pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56392', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "40030", "font": ""}, {"font_size": "18", "text": "10487", "font": ""}, {"font_size": "18", "text": "5908", "font": ""}, {"font_size": "18", "text": "3778", "font": ""}, {"font_size": "18", "text": "2340", "font": ""}, {"font_size": "18", "text": "(1085)", "font": ""}, {"font_size": "18", "text": "11", "font": ""}, {"font_size": "18", "text": "0", "font": ""}]
+{'style': 'position:absolute;margin-left:427.350006pt;margin-top:131.512512pt;width:28.15pt;height:116.5pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56368', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "47837", "font": ""}, {"font_size": "18", "text": "11860", "font": ""}, {"font_size": "18", "text": "6936", "font": ""}, {"font_size": "18", "text": "4994", "font": ""}, {"font_size": "18", "text": "2535", "font": ""}, {"font_size": "18", "text": "(1073)", "font": ""}, {"font_size": "18", "text": "5", "font": ""}, {"font_size": "18", "text": "0", "font": ""}]
+{'style': 'position:absolute;margin-left:464.100006pt;margin-top:131.512512pt;width:28.15pt;height:116.5pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56344', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "55257", "font": ""}, {"font_size": "18", "text": "13057", "font": ""}, {"font_size": "18", "text": "8012", "font": ""}, {"font_size": "18", "text": "5768", "font": ""}, {"font_size": "18", "text": "2763", "font": ""}, {"font_size": "18", "text": "(1266)", "font": ""}, {"font_size": "18", "text": "5", "font": ""}, {"font_size": "18", "text": "0", "font": ""}]
+{'style': 'position:absolute;margin-left:500.820007pt;margin-top:131.512512pt;width:28.15pt;height:116.5pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56320', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "64141", "font": ""}, {"font_size": "18", "text": "14652", "font": ""}, {"font_size": "18", "text": "9301", "font": ""}, {"font_size": "18", "text": "6824", "font": ""}, {"font_size": "18", "text": "3207", "font": ""}, {"font_size": "18", "text": "(1700)", "font": ""}, {"font_size": "18", "text": "5", "font": ""}, {"font_size": "18", "text": "0", "font": ""}]
+{'style': 'position:absolute;margin-left:537.780029pt;margin-top:131.512512pt;width:28.15pt;height:116.5pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56296', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": " ", "font": ""}, {"font_size": "18", "text": "\t", "font": ""}, {"font_size": "18", "text": "811\t", "font": ""}, {"font_size": "18", "text": "1093\t", "font": ""}, {"font_size": "18", "text": "1105\t", "font": ""}]
+{'style': 'position:absolute;margin-left:113.019997pt;margin-top:222.952515pt;width:181.75pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56272', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "7643", "font": ""}, {"font_size": "18", "text": "863", "font": ""}, {"font_size": "18", "text": "5293", "font": ""}]
+{'style': 'position:absolute;margin-left:126.580002pt;margin-top:235.94252pt;width:22.15pt;height:51.3pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56248', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "7984", "font": ""}, {"font_size": "18", "text": "919", "font": ""}, {"font_size": "18", "text": "5261", "font": ""}]
+{'style': 'position:absolute;margin-left:163.059998pt;margin-top:235.94252pt;width:22.15pt;height:51.3pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56224', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "7013", "font": ""}, {"font_size": "18", "text": "868", "font": ""}, {"font_size": "18", "text": "5178", "font": ""}]
+{'style': 'position:absolute;margin-left:199.570007pt;margin-top:235.94252pt;width:22.15pt;height:51.3pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56200', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "6882", "font": ""}, {"font_size": "18", "text": "868", "font": ""}, {"font_size": "18", "text": "5102", "font": ""}]
+{'style': 'position:absolute;margin-left:236.050003pt;margin-top:235.94252pt;width:22.15pt;height:51.3pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56176', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "6765", "font": ""}, {"font_size": "18", "text": "868", "font": ""}, {"font_size": "18", "text": "5033", "font": ""}]
+{'style': 'position:absolute;margin-left:272.649994pt;margin-top:235.94252pt;width:22.15pt;height:51.3pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56152', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": " ", "font": ""}, {"font_size": "18", "text": "   ", "font": ""}, {"font_size": "18", "text": " ", "font": ""}]
+{'style': 'position:absolute;margin-left:379.470001pt;margin-top:249.022522pt;width:186.45pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56128', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "45", "font": ""}]
+{'style': 'position:absolute;margin-left:406.829987pt;margin-top:262.102509pt;width:12.05pt;height:25.15pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56104', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "44", "font": ""}]
+{'style': 'position:absolute;margin-left:438.390015pt;margin-top:262.102509pt;width:17.150pt;height:25.15pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56080', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "90", "font": ""}]
+{'style': 'position:absolute;margin-left:480.179993pt;margin-top:262.102509pt;width:12.05pt;height:25.15pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56056', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "90", "font": ""}]
+{'style': 'position:absolute;margin-left:516.900024pt;margin-top:262.102509pt;width:12.05pt;height:25.15pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56032', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "90", "font": ""}]
+{'style': 'position:absolute;margin-left:553.859985pt;margin-top:262.102509pt;width:12.05pt;height:25.15pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-56008', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": " ", "font": ""}]
+{'style': 'position:absolute;margin-left:113.019997pt;margin-top:288.142517pt;width:181.75pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55984', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": " ", "font": ""}, {"font_size": "18", "text": "   ", "font": ""}, {"font_size": "18", "text": " ", "font": ""}]
+{'style': 'position:absolute;margin-left:379.470001pt;margin-top:288.142517pt;width:186.45pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55960', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:121.540001pt;margin-top:301.222504pt;width:27.2pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55936', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:158.020004pt;margin-top:301.222504pt;width:27.2pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55912', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:194.529999pt;margin-top:301.222504pt;width:27.2pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55888', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:227.050003pt;margin-top:301.222504pt;width:31.1pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55864', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:262.690002pt;margin-top:301.222504pt;width:32.0500pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55840', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "3306", "font": ""}, {"font_size": "18", "text": "10086", "font": ""}]
+{'style': 'position:absolute;margin-left:391.709991pt;margin-top:301.222504pt;width:27.2pt;height:38.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55816', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "4568", "font": ""}, {"font_size": "18", "text": "14039", "font": ""}]
+{'style': 'position:absolute;margin-left:428.309998pt;margin-top:301.222504pt;width:27.2pt;height:38.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55792', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "5557", "font": ""}, {"font_size": "18", "text": "17036", "font": ""}]
+{'style': 'position:absolute;margin-left:465.059998pt;margin-top:301.222504pt;width:27.2pt;height:38.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55768', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "6577", "font": ""}, {"font_size": "18", "text": "20452", "font": ""}]
+{'style': 'position:absolute;margin-left:501.779999pt;margin-top:301.222504pt;width:27.2pt;height:38.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55744', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "7777", "font": ""}, {"font_size": "18", "text": "24166", "font": ""}]
+{'style': 'position:absolute;margin-left:538.73999pt;margin-top:301.222504pt;width:27.2pt;height:38.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55720', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "流动负债", "font": "楷体"}, {"font_size": "18", "text": "短期借款应付账款预收账款其他", "font": "楷体"}, {"font_size": "18", "text": "长期负债 ", "font": "楷体"}, {"font_size": "18", "text": "长期借款其他", "font": "楷体"}]
+{'style': 'position:absolute;margin-left:42.080002pt;margin-top:313.995605pt;width:48.55pt;height:115.45pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55696', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "15968", "font": ""}, {"font_size": "18", "text": "0", "font": ""}, {"font_size": "18", "text": "3138", "font": ""}]
+{'style': 'position:absolute;margin-left:121.540001pt;margin-top:314.302521pt;width:27.2pt;height:51.2pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55672', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "20708", "font": ""}, {"font_size": "18", "text": "0", "font": ""}, {"font_size": "18", "text": "3152", "font": ""}]
+{'style': 'position:absolute;margin-left:158.020004pt;margin-top:314.302521pt;width:27.2pt;height:51.2pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55648', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "22586", "font": ""}, {"font_size": "18", "text": "0", "font": ""}, {"font_size": "18", "text": "1329", "font": ""}]
+{'style': 'position:absolute;margin-left:194.529999pt;margin-top:314.302521pt;width:27.2pt;height:51.2pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55624', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "23863", "font": ""}, {"font_size": "18", "text": "0", "font": ""}, {"font_size": "18", "text": "1464", "font": ""}]
+{'style': 'position:absolute;margin-left:231.009995pt;margin-top:314.302521pt;width:27.2pt;height:51.2pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55600', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "25564", "font": ""}, {"font_size": "18", "text": "0", "font": ""}, {"font_size": "18", "text": "1642", "font": ""}]
+{'style': 'position:absolute;margin-left:267.609985pt;margin-top:314.302521pt;width:27.2pt;height:51.2pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55576', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": " ", "font": ""}]
+{'style': 'position:absolute;margin-left:379.470001pt;margin-top:340.342529pt;width:186.45pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55552', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:399.269989pt;margin-top:353.422516pt;width:19.55pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55528', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:435.869995pt;margin-top:353.422516pt;width:19.55pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55504', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:472.619995pt;margin-top:353.422516pt;width:19.55pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55480', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:509.339996pt;margin-top:353.422516pt;width:19.6pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55456', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:546.299988pt;margin-top:353.422516pt;width:19.55pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55432', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": " ", "font": ""}]
+{'style': 'position:absolute;margin-left:113.019997pt;margin-top:366.502502pt;width:181.75pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55408', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:308.049988pt;margin-top:375.774963pt;width:65.3500pt;height:12.6pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55384', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "280", "font": ""}, {"font_size": "18", "text": "0", "font": ""}, {"font_size": "18", "text": "280", "font": ""}]
+{'style': 'position:absolute;margin-left:121.540001pt;margin-top:379.602509pt;width:27.2pt;height:51.2pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55360', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "267", "font": ""}, {"font_size": "18", "text": "0", "font": ""}, {"font_size": "18", "text": "267", "font": ""}]
+{'style': 'position:absolute;margin-left:158.020004pt;margin-top:379.602509pt;width:27.2pt;height:51.2pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55336', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "151", "font": ""}, {"font_size": "18", "text": "0", "font": ""}, {"font_size": "18", "text": "151", "font": ""}]
+{'style': 'position:absolute;margin-left:194.529999pt;margin-top:379.602509pt;width:27.2pt;height:51.2pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55312', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "151", "font": ""}, {"font_size": "18", "text": "0", "font": ""}, {"font_size": "18", "text": "151", "font": ""}]
+{'style': 'position:absolute;margin-left:231.009995pt;margin-top:379.602509pt;width:27.2pt;height:51.2pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55288', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "151", "font": ""}, {"font_size": "18", "text": "0", "font": ""}, {"font_size": "18", "text": "151", "font": ""}]
+{'style': 'position:absolute;margin-left:267.609985pt;margin-top:379.602509pt;width:27.2pt;height:51.2pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55264', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "年成长率", "font": "楷体"}, {"font_size": "18", "text": "营业收入营业利润净利润", "font": "楷体"}, {"font_size": "18", "text": "获利能力", "font": "楷体"}, {"font_size": "18", "text": "毛利率净利率", "font": "楷体"}, {"font_size": "18", "text": "ROE ROIC", "font": "楷体"}, {"font_size": "18", "text": "偿债能力", "font": "楷体"}, {"font_size": "18", "text": "资产负债率净负债比率流动比率 速动比率", "font": "楷体"}, {"font_size": "18", "text": "营运能力", "font": "楷体"}, {"font_size": "18", "text": "资产周转率存货周转率", "font": "楷体"}, {"font_size": "18", "text": "应收帐款周转率", "font": "楷体"}, {"font_size": "18", "text": "应付帐款周转率每股资料（元）", "font": "楷体"}, {"font_size": "18", "text": "每股收益", "font": "楷体"}, {"font_size": "18", "text": "每股经营现金每股净资产 每股股利", "font": "楷体"}, {"font_size": "18", "text": "估值比率", "font": "楷体"}, {"font_size": "18", "text": "PE PB", "font": ""}]
+{'style': 'position:absolute;margin-left:308.529999pt;margin-top:405.095612pt;width:67.150pt;height:364.75pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55240', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "23%", "font": ""}]
+{'style': 'position:absolute;margin-left:398.790009pt;margin-top:418.362518pt;width:20.1pt;height:25.15pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55216', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "33%", "font": ""}]
+{'style': 'position:absolute;margin-left:435.390015pt;margin-top:418.362518pt;width:20.1pt;height:25.15pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55192', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "20%", "font": ""}]
+{'style': 'position:absolute;margin-left:472.140015pt;margin-top:418.362518pt;width:20.1pt;height:25.15pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55168', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "16%", "font": ""}]
+{'style': 'position:absolute;margin-left:508.859985pt;margin-top:418.362518pt;width:20.1pt;height:25.15pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55144', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "16%", "font": ""}]
+{'style': 'position:absolute;margin-left:545.820007pt;margin-top:418.362518pt;width:20.1pt;height:25.15pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55120', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "股本", "font": "楷体"}, {"font_size": "18", "text": "资本公积金留存收益", "font": "楷体"}, {"font_size": "18", "text": "少数股东权益", "font": "楷体"}, {"font_size": "18", "text": "归属于母公司所有者权益", "font": "楷体"}]
+{'style': 'position:absolute;margin-left:42.080002pt;margin-top:431.495605pt;width:68pt;height:76.2pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55096', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "3796", "font": ""}, {"font_size": "18", "text": "953", "font": ""}, {"font_size": "18", "text": "48585", "font": ""}]
+{'style': 'position:absolute;margin-left:121.540001pt;margin-top:431.802521pt;width:27.2pt;height:51.2pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55072', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "3882", "font": ""}, {"font_size": "18", "text": "2683", "font": ""}, {"font_size": "18", "text": "56923", "font": ""}]
+{'style': 'position:absolute;margin-left:158.020004pt;margin-top:431.802521pt;width:27.2pt;height:51.2pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55048', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "3882", "font": ""}, {"font_size": "18", "text": "2683", "font": ""}, {"font_size": "18", "text": "66764", "font": ""}]
+{'style': 'position:absolute;margin-left:194.529999pt;margin-top:431.802521pt;width:27.2pt;height:51.2pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55024', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "3882", "font": ""}, {"font_size": "18", "text": "2683", "font": ""}, {"font_size": "18", "text": "78281", "font": ""}]
+{'style': 'position:absolute;margin-left:231.009995pt;margin-top:431.802521pt;width:27.2pt;height:51.2pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-55000', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "3882", "font": ""}, {"font_size": "18", "text": "2683", "font": ""}, {"font_size": "18", "text": "91732", "font": ""}]
+{'style': 'position:absolute;margin-left:267.609985pt;margin-top:431.802521pt;width:27.2pt;height:51.2pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54976', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": " ", "font": ""}]
+{'style': 'position:absolute;margin-left:379.470001pt;margin-top:444.522522pt;width:186.45pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54952', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "72.0%", "font": ""}, {"font_size": "18", "text": "32.0%", "font": ""}]
+{'style': 'position:absolute;margin-left:391.230011pt;margin-top:470.562531pt;width:27.6pt;height:38.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54928', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "73.8%", "font": ""}, {"font_size": "18", "text": "33.4%", "font": ""}]
+{'style': 'position:absolute;margin-left:427.829987pt;margin-top:470.562531pt;width:27.6pt;height:38.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54904', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "75.2%", "font": ""}, {"font_size": "18", "text": "34.4%", "font": ""}]
+{'style': 'position:absolute;margin-left:464.579987pt;margin-top:470.562531pt;width:27.6pt;height:38.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54880', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "76.4%", "font": ""}, {"font_size": "18", "text": "35.7%", "font": ""}]
+{'style': 'position:absolute;margin-left:501.299988pt;margin-top:470.562531pt;width:27.6pt;height:38.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54856', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "77.2%", "font": ""}, {"font_size": "18", "text": "36.4%", "font": ""}]
+{'style': 'position:absolute;margin-left:538.26001pt;margin-top:470.562531pt;width:27.6pt;height:38.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54832', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": " ", "font": ""}, {"font_size": "18", "text": " ", "font": ""}, {"font_size": "18", "text": " ", "font": ""}]
+{'style': 'position:absolute;margin-left:113.019997pt;margin-top:484.002502pt;width:181.75pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54808', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:121.540001pt;margin-top:496.962524pt;width:27.2pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54784', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:158.020004pt;margin-top:496.962524pt;width:27.2pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54760', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:194.529999pt;margin-top:496.962524pt;width:27.2pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54736', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:227.050003pt;margin-top:496.962524pt;width:31.1pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54712', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:262.690002pt;margin-top:496.962524pt;width:32.0500pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54688', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": " ", "font": ""}, {"font_size": "18", "text": "   ", "font": ""}, {"font_size": "18", "text": " ", "font": ""}]
+{'style': 'position:absolute;margin-left:379.470001pt;margin-top:509.802521pt;width:186.4pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54664', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:41.599998pt;margin-top:519.434998pt;width:54.8pt;height:12.6pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54640', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "22.9%", "font": ""}, {"font_size": "18", "text": "0.0%", "font": ""}]
+{'style': 'position:absolute;margin-left:391.230011pt;margin-top:535.872498pt;width:27.6pt;height:38.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54616', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "24.4%", "font": ""}, {"font_size": "18", "text": "0.0%", "font": ""}]
+{'style': 'position:absolute;margin-left:427.829987pt;margin-top:535.872498pt;width:27.6pt;height:38.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54592', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "23.1%", "font": ""}, {"font_size": "18", "text": "0.0%", "font": ""}]
+{'style': 'position:absolute;margin-left:464.579987pt;margin-top:535.872498pt;width:27.6pt;height:38.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54568', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "21.5%", "font": ""}, {"font_size": "18", "text": "0.0%", "font": ""}]
+{'style': 'position:absolute;margin-left:501.299988pt;margin-top:535.872498pt;width:27.6pt;height:38.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54544', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "20.1%", "font": ""}, {"font_size": "18", "text": "0.0%", "font": ""}]
+{'style': 'position:absolute;margin-left:538.26001pt;margin-top:535.872498pt;width:27.6pt;height:38.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54520', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "经营活动现金流", "font": "楷体"}, {"font_size": "18", "text": "净 利 润 折旧摊销财务费用投资收益", "font": "楷体"}, {"font_size": "18", "text": "营运资金变动其它", "font": "楷体"}, {"font_size": "18", "text": "投资活动现金流", "font": "楷体"}, {"font_size": "18", "text": "资本支出", "font": "楷体"}, {"font_size": "18", "text": "其他投资", "font": "楷体"}, {"font_size": "18", "text": "筹资活动现金流", "font": "楷体"}, {"font_size": "18", "text": "借款变动", "font": "楷体"}, {"font_size": "18", "text": "普通股增加 资本公积增加股利分配", "font": "楷体"}, {"font_size": "18", "text": "其他", "font": "楷体"}]
+{'style': 'position:absolute;margin-left:42.080002pt;margin-top:548.64563pt;width:66.55pt;height:219.85pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54496', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "9766", "font": ""}, {"font_size": "18", "text": "9674", "font": ""}, {"font_size": "18", "text": "550", "font": ""}, {"font_size": "18", "text": "(891)", "font": ""}, {"font_size": "18", "text": "(68)", "font": ""}]
+{'style': 'position:absolute;margin-left:125.620003pt;margin-top:548.952515pt;width:23.15pt;height:77.350pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54472', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "12317", "font": ""}, {"font_size": "18", "text": "13384", "font": ""}, {"font_size": "18", "text": "563", "font": ""}, {"font_size": "18", "text": "(1085)", "font": ""}, {"font_size": "18", "text": "(101)", "font": ""}]
+{'style': 'position:absolute;margin-left:157.059998pt;margin-top:548.952515pt;width:28.15pt;height:77.350pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54448', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "14905", "font": ""}, {"font_size": "18", "text": "16440", "font": ""}, {"font_size": "18", "text": "547", "font": ""}, {"font_size": "18", "text": "(1073)", "font": ""}, {"font_size": "18", "text": "(80)", "font": ""}]
+{'style': 'position:absolute;margin-left:193.570007pt;margin-top:548.952515pt;width:28.15pt;height:77.350pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54424', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "17095", "font": ""}, {"font_size": "18", "text": "19736", "font": ""}, {"font_size": "18", "text": "531", "font": ""}, {"font_size": "18", "text": "(1266)", "font": ""}, {"font_size": "18", "text": "(100)", "font": ""}]
+{'style': 'position:absolute;margin-left:230.050003pt;margin-top:548.952515pt;width:28.15pt;height:77.350pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54400', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "19913", "font": ""}, {"font_size": "18", "text": "23320", "font": ""}, {"font_size": "18", "text": "517", "font": ""}, {"font_size": "18", "text": "(1700)", "font": ""}, {"font_size": "18", "text": "(100)", "font": ""}]
+{'style': 'position:absolute;margin-left:266.649994pt;margin-top:548.952515pt;width:28.15pt;height:77.350pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54376', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": " ", "font": ""}]
+{'style': 'position:absolute;margin-left:379.470001pt;margin-top:574.992493pt;width:186.4pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54352', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "0.4", "font": ""}, {"font_size": "18", "text": "0.9", "font": ""}]
+{'style': 'position:absolute;margin-left:394.230011pt;margin-top:601.152527pt;width:24.6pt;height:38.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54328', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "0.5", "font": ""}, {"font_size": "18", "text": "0.9", "font": ""}]
+{'style': 'position:absolute;margin-left:430.829987pt;margin-top:601.152527pt;width:24.6pt;height:38.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54304', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "0.5", "font": ""}, {"font_size": "18", "text": "0.9", "font": ""}]
+{'style': 'position:absolute;margin-left:467.579987pt;margin-top:601.152527pt;width:24.6pt;height:38.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54280', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "0.5", "font": ""}, {"font_size": "18", "text": "0.9", "font": ""}]
+{'style': 'position:absolute;margin-left:504.299988pt;margin-top:601.152527pt;width:24.6pt;height:38.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54256', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "0.5", "font": ""}, {"font_size": "18", "text": "0.9", "font": ""}]
+{'style': 'position:absolute;margin-left:541.26001pt;margin-top:601.152527pt;width:24.6pt;height:38.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54232', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": " ", "font": ""}]
+{'style': 'position:absolute;margin-left:113.019997pt;margin-top:627.192505pt;width:181.75pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54208', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "(201)", "font": ""}]
+{'style': 'position:absolute;margin-left:125.620003pt;margin-top:640.272522pt;width:23.05pt;height:25.15pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54184', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "(332)", "font": ""}]
+{'style': 'position:absolute;margin-left:162.100006pt;margin-top:640.272522pt;width:23.05pt;height:25.15pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54160', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "56", "font": ""}]
+{'style': 'position:absolute;margin-left:198.610001pt;margin-top:640.272522pt;width:23.1pt;height:25.15pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54136', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "(400)", "font": ""}]
+{'style': 'position:absolute;margin-left:235.089996pt;margin-top:640.272522pt;width:23.05pt;height:25.15pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54112', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "(400)", "font": ""}]
+{'style': 'position:absolute;margin-left:271.690002pt;margin-top:640.272522pt;width:23.05pt;height:25.15pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54088', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": " ", "font": ""}]
+{'style': 'position:absolute;margin-left:379.470001pt;margin-top:640.272522pt;width:186.4pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54064', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": " ", "font": ""}, {"font_size": "18", "text": "\t15\t50\t456\t0\t0", "font": ""}]
+{'style': 'position:absolute;margin-left:113.019997pt;margin-top:666.432495pt;width:184.05pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54040', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "2.55", "font": ""}, {"font_size": "18", "text": "2.57", "font": ""}]
+{'style': 'position:absolute;margin-left:394.230011pt;margin-top:666.432495pt;width:24.6pt;height:38.15pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-54016', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "3.45", "font": ""}, {"font_size": "18", "text": "3.17", "font": ""}]
+{'style': 'position:absolute;margin-left:430.829987pt;margin-top:666.432495pt;width:24.6pt;height:38.15pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53992', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "4.24", "font": ""}, {"font_size": "18", "text": "3.84", "font": ""}]
+{'style': 'position:absolute;margin-left:467.579987pt;margin-top:666.432495pt;width:24.6pt;height:38.15pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53968', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "5.08", "font": ""}, {"font_size": "18", "text": "4.40", "font": ""}]
+{'style': 'position:absolute;margin-left:504.299988pt;margin-top:666.432495pt;width:24.6pt;height:38.15pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53944', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "6.01", "font": ""}, {"font_size": "18", "text": "5.13", "font": ""}]
+{'style': 'position:absolute;margin-left:541.26001pt;margin-top:666.432495pt;width:24.6pt;height:38.15pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53920', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "(3639)", "font": ""}, {"font_size": "18", "text": "(1181)", "font": ""}, {"font_size": "18", "text": "0", "font": ""}, {"font_size": "18", "text": "0", "font": ""}]
+{'style': 'position:absolute;margin-left:120.580002pt;margin-top:679.392517pt;width:28.1pt;height:64.3pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53896', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "(3618)", "font": ""}, {"font_size": "18", "text": "(1734)", "font": ""}, {"font_size": "18", "text": "86", "font": ""}, {"font_size": "18", "text": "1729", "font": ""}]
+{'style': 'position:absolute;margin-left:157.059998pt;margin-top:679.392517pt;width:28.15pt;height:64.3pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53872', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "(5562)", "font": ""}, {"font_size": "18", "text": "0", "font": ""}, {"font_size": "18", "text": "0", "font": ""}, {"font_size": "18", "text": "0", "font": ""}]
+{'style': 'position:absolute;margin-left:193.570007pt;margin-top:679.392517pt;width:28.1pt;height:64.3pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53848', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "(6854)", "font": ""}, {"font_size": "18", "text": "0", "font": ""}, {"font_size": "18", "text": "0", "font": ""}, {"font_size": "18", "text": "0", "font": ""}]
+{'style': 'position:absolute;margin-left:230.050003pt;margin-top:679.392517pt;width:28.15pt;height:64.3pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53824', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "(8068)", "font": ""}, {"font_size": "18", "text": "0", "font": ""}, {"font_size": "18", "text": "0", "font": ""}, {"font_size": "18", "text": "0", "font": ""}]
+{'style': 'position:absolute;margin-left:266.649994pt;margin-top:679.392517pt;width:28.1pt;height:64.3pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53800', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": " ", "font": ""}]
+{'style': 'position:absolute;margin-left:379.470001pt;margin-top:705.57251pt;width:186.4pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53776', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "40.1", "font": ""}, {"font_size": "18", "text": "7.3", "font": ""}]
+{'style': 'position:absolute;margin-left:399.269989pt;margin-top:731.612488pt;width:19.55pt;height:38.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53752', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "29.7", "font": ""}, {"font_size": "18", "text": "6.3", "font": ""}]
+{'style': 'position:absolute;margin-left:435.869995pt;margin-top:731.612488pt;width:19.55pt;height:38.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53728', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "24.1", "font": ""}, {"font_size": "18", "text": "5.4", "font": ""}]
+{'style': 'position:absolute;margin-left:472.619995pt;margin-top:731.612488pt;width:19.55pt;height:38.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53704', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "20.1", "font": ""}, {"font_size": "18", "text": "4.7", "font": ""}]
+{'style': 'position:absolute;margin-left:509.339996pt;margin-top:731.612488pt;width:19.55pt;height:38.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53680', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "17.0", "font": ""}, {"font_size": "18", "text": "4.0", "font": ""}]
+{'style': 'position:absolute;margin-left:546.299988pt;margin-top:731.612488pt;width:19.55pt;height:38.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53656', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": " ", "font": ""}, {"font_size": "18", "text": "\t958\t", "font": ""}, {"font_size": "18", "text": "1173\t", "font": ""}]
+{'style': 'position:absolute;margin-left:113.019997pt;margin-top:744.692505pt;width:181.75pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53632', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:126.580002pt;margin-top:757.772522pt;width:22.15pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53608', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:163.059998pt;margin-top:757.772522pt;width:22.15pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53584', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:199.570007pt;margin-top:757.772522pt;width:22.15pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53560', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:236.050003pt;margin-top:757.772522pt;width:22.15pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53536', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:268.329987pt;margin-top:757.772522pt;width:26.4pt;height:12.1pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53512', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:47pt;margin-top:789.265625pt;width:101pt;height:11pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53488', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:510.700012pt;margin-top:787.079956pt;width:53.95pt;height:15.6pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53464', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "单位：百万元\t", "font": "楷体"}]
+{'style': 'position:absolute;margin-left:43.080002pt;margin-top:534.429993pt;width:253.05pt;height:12.65pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53440', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:309.529999pt;margin-top:390.789978pt;width:257.6pt;height:12.75pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53416', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "单位：百万元\t", "font": "楷体"}]
+{'style': 'position:absolute;margin-left:309.529999pt;margin-top:117.019981pt;width:257.6pt;height:12.85pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53392', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "18", "text": "单位：百万元\t", "font": "楷体"}]
+{'style': 'position:absolute;margin-left:43.080002pt;margin-top:117.019981pt;width:253.05pt;height:12.75pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53368', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:41.880001pt;margin-top:62.929977pt;width:522.85pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53344', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:114.019997pt;margin-top:221.099976pt;width:21.45pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53320', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:179.179993pt;margin-top:221.099976pt;width:22.15pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53296', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:252.169998pt;margin-top:221.099976pt;width:21.5pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53272', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:380.470001pt;margin-top:247.169983pt;width:14.5pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53248', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:412.869995pt;margin-top:247.169983pt;width:16.45pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53224', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:449.470001pt;margin-top:247.169983pt;width:16.6pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53200', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:486.220001pt;margin-top:247.169983pt;width:16.6pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53176', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:522.940002pt;margin-top:247.169983pt;width:16.8pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53152', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:114.019997pt;margin-top:286.289978pt;width:15.8pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53128', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:142.699997pt;margin-top:286.289978pt;width:21.4pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53104', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:179.179993pt;margin-top:286.289978pt;width:26.45pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53080', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:215.690002pt;margin-top:286.289978pt;width:26.4pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53056', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:252.169998pt;margin-top:286.289978pt;width:26.55pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53032', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:380.470001pt;margin-top:286.289978pt;width:14.5pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-53008', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:412.869995pt;margin-top:286.289978pt;width:16.45pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52984', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:449.470001pt;margin-top:286.289978pt;width:16.6pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52960', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:486.220001pt;margin-top:286.289978pt;width:16.6pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52936', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:522.940002pt;margin-top:286.289978pt;width:16.8pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52912', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:43.080002pt;margin-top:301.529968pt;width:253.05pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52888', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:380.470001pt;margin-top:338.48999pt;width:19.55pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52864', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:412.869995pt;margin-top:338.48999pt;width:16.45pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52840', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:449.470001pt;margin-top:338.48999pt;width:16.6pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52816', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:486.220001pt;margin-top:338.48999pt;width:16.6pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52792', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:522.940002pt;margin-top:338.48999pt;width:16.8pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52768', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:309.049988pt;margin-top:353.72998pt;width:258.05pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52744', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:114.019997pt;margin-top:364.649963pt;width:15.8pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52720', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:142.699997pt;margin-top:364.649963pt;width:16.3500pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52696', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:179.179993pt;margin-top:364.649963pt;width:16.3500pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52672', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:215.690002pt;margin-top:364.649963pt;width:16.3500pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52648', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:252.169998pt;margin-top:364.649963pt;width:16.45pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52624', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:43.080002pt;margin-top:419.029968pt;width:253.05pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52600', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:380.470001pt;margin-top:442.669983pt;width:21.55pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52576', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:409.869995pt;margin-top:442.669983pt;width:26.55pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52552', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:446.470001pt;margin-top:442.669983pt;width:26.7pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52528', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:483.220001pt;margin-top:442.669983pt;width:26.65pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52504', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:519.940002pt;margin-top:442.669983pt;width:26.9pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52480', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:114.019997pt;margin-top:482.149963pt;width:10.75pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52456', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:142.699997pt;margin-top:482.149963pt;width:16.3500pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52432', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:179.179993pt;margin-top:482.149963pt;width:16.3500pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52408', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:215.690002pt;margin-top:482.149963pt;width:16.3500pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52384', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:252.169998pt;margin-top:482.149963pt;width:16.45pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52360', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:42.599998pt;margin-top:497.389984pt;width:253.5pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52336', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:380.470001pt;margin-top:507.949982pt;width:14pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52312', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:380.470001pt;margin-top:573.140015pt;width:27.1pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52288', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:412.842987pt;margin-top:573.140015pt;width:29.1pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52264', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:449.442993pt;margin-top:573.140015pt;width:29.25pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52240', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:486.192993pt;margin-top:573.140015pt;width:29.2pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52216', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:522.913025pt;margin-top:573.140015pt;width:29.45pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52192', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:114.019997pt;margin-top:625.339966pt;width:20.85pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52168', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:142.699997pt;margin-top:625.339966pt;width:26.4pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52144', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:179.179993pt;margin-top:625.339966pt;width:26.45pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52120', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:215.690002pt;margin-top:625.339966pt;width:26.4pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52096', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:252.169998pt;margin-top:625.339966pt;width:26.55pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52072', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:380.470001pt;margin-top:638.419983pt;width:27.1pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52048', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:412.842987pt;margin-top:638.419983pt;width:29.1pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52024', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:449.442993pt;margin-top:638.419983pt;width:29.25pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-52000', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:486.192993pt;margin-top:638.419983pt;width:29.2pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-51976', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:522.913025pt;margin-top:638.419983pt;width:29.45pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-51952', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:114.019997pt;margin-top:664.579956pt;width:60.15pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-51928', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:179.179993pt;margin-top:664.579956pt;width:26.45pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-51904', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:215.690002pt;margin-top:664.579956pt;width:36.4pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-51880', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:380.470001pt;margin-top:703.719971pt;width:22.05pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-51856', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:114.019997pt;margin-top:742.839966pt;width:20.85pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-51832', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:142.699997pt;margin-top:742.839966pt;width:22.1pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-51808', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:215.690002pt;margin-top:742.839966pt;width:21.4pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-51784', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:252.169998pt;margin-top:742.839966pt;width:21.5pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-51760', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:42.599998pt;margin-top:758.200012pt;width:253.5pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-51736', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:309.049988pt;margin-top:758.200012pt;width:258.05pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-51712', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:42.599998pt;margin-top:775.599976pt;width:117.05pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-51688', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:522.179993pt;margin-top:59.545605pt;width:38.1pt;height:11pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-51592', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "24", "text": "分析师承诺", "font": "黑体"}, {"font_size": "", "text": "负责本研究报告的每一位证券分析师，在此申明，本报告清晰、准确地反映了分析师本人的研究观点。本人薪酬", "font": ""}]
+{'style': 'position:absolute;margin-left:47pt;margin-top:86.747475pt;width:513.5pt;height:46.45pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-51568', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "", "text": "杨勇胜：", "font": ""}, {"font_size": "", "text": "食品饮料首席分析师，武汉大学本科，厦门大学硕士，西方经济学专业，", "font": ""}, {"font_size": "", "text": "11-13", "font": "Arial"}, {"font_size": "", "text": " ", "font": "Arial"}, {"font_size": "", "text": "年就职于申万研究所，", "font": ""}, {"font_size": "", "text": "14 ", "font": "Arial"}, {"font_size": "", "text": "年加入招商证券，", "font": ""}, {"font_size": "", "text": "7 ", "font": "Arial"}, {"font_size": "", "text": "年食品饮料研究经验。", "font": ""}, {"font_size": "", "text": "欧阳予：", "font": ""}, {"font_size": "", "text": "浙江大学本科，荷兰伊拉斯姆斯大学金融学硕士，", "font": ""}, {"font_size": "", "text": "17 ", "font": "Arial"}, {"font_size": "", "text": "年加入招商证券，", "font": ""}, {"font_size": "", "text": "2 ", "font": "Arial"}, {"font_size": "", "text": "年食品饮料研究经验。", "font": ""}, {"font_size": "", "text": "于佳琦：", "font": ""}, {"font_size": "", "text": "南开大学本科，上海交通大学硕士，", "font": ""}, {"font_size": "", "text": "CPA", "font": "Arial"}, {"font_size": "", "text": "，", "font": ""}, {"font_size": "", "text": "16 ", "font": "Arial"}, {"font_size": "", "text": "年就职安信证券，", "font": ""}, {"font_size": "", "text": "17 ", "font": "Arial"}, {"font_size": "", "text": "年加入招商证券，", "font": ""}, {"font_size": "", "text": "2 ", "font": "Arial"}, {"font_size": "", "text": "年食品饮料研究经验。", "font": ""}, {"font_size": "", "text": "李泽明：", "font": ""}, {"font_size": "", "text": "四川大学本科，北京大学硕士，", "font": ""}, {"font_size": "", "text": "17 ", "font": "Arial"}, {"font_size": "", "text": "年就职国泰君安证券，", "font": ""}, {"font_size": "", "text": "18 ", "font": "Arial"}, {"font_size": "", "text": "年加入招商证券，", "font": ""}, {"font_size": "", "text": "2 ", "font": "Arial"}, {"font_size": "", "text": "年消费品研究经验。", "font": ""}, {"font_size": "", "text": "招商证券食品饮料研究团队传承十五年研究精髓，以产业分析见长，逻辑框架独特、数据翔实，连续 ", "font": ""}, {"font_size": "", "text": "13 ", "font": "Arial"}, {"font_size": "", "text": "年上榜", "font": "Arial"}, {"font_size": "", "text": "《新财富》食品饮料行业最佳分析师排名，其中六年第一，", "font": ""}, {"font_size": "", "text": "2015-2017", "font": "Arial"}, {"font_size": "", "text": "  ", "font": "Arial"}, {"font_size": "", "text": "年连续获新财富最佳分析师第一名，", "font": ""}, {"font_size": "", "text": "2018", "font": "Arial"}]
+{'style': 'position:absolute;margin-left:47pt;margin-top:145.820297pt;width:514.25pt;height:146.050pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-51544', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "21", "text": "投资评级定义", "font": "楷体"}, {"font_size": "21", "text": "公司短期评级", "font": "楷体"}, {"font_size": "", "text": "以报告日起 ", "font": ""}, {"font_size": "", "text": "6 ", "font": "Arial"}, {"font_size": "", "text": "个月内，公司股价相对同期市场基准", "font": ""}, {"font_size": "", "text": "（", "font": ""}, {"font_size": "", "text": "沪深 ", "font": ""}, {"font_size": "", "text": "300 ", "font": "Arial"}, {"font_size": "", "text": "指数", "font": ""}, {"font_size": "", "text": "）的表现为标准： ", "font": ""}, {"font_size": "", "text": "强烈推荐：公司股价涨幅超基准指数 ", "font": ""}, {"font_size": "", "text": "20%", "font": "Arial"}, {"font_size": "", "text": "以上", "font": ""}, {"font_size": "", "text": "审慎推荐：公司股价涨幅超基准指数 ", "font": ""}, {"font_size": "", "text": "5-20%", "font": "Arial"}, {"font_size": "", "text": "之间", "font": ""}, {"font_size": "", "text": "中性：\t公司股", "font": ""}, {"font_size": "", "text": "价", "font": ""}, {"font_size": "", "text": "变", "font": ""}, {"font_size": "", "text": "动", "font": ""}, {"font_size": "", "text": "幅度", "font": ""}, {"font_size": "", "text": "相", "font": ""}, {"font_size": "", "text": "对", "font": ""}, {"font_size": "", "text": "基", "font": ""}, {"font_size": "", "text": "准", "font": ""}, {"font_size": "", "text": "指", "font": ""}, {"font_size": "", "text": "数", "font": ""}, {"font_size": "", "text": "介", "font": ""}, {"font_size": "", "text": "于", "font": ""}, {"font_size": "", "text": "±5%", "font": "Arial"}, {"font_size": "", "text": "之间 回避：\t公司股", "font": ""}, {"font_size": "", "text": "价", "font": ""}, {"font_size": "", "text": "表", "font": ""}, {"font_size": "", "text": "现", "font": ""}, {"font_size": "", "text": "弱于", "font": ""}, {"font_size": "", "text": "基", "font": ""}, {"font_size": "", "text": "准", "font": ""}, {"font_size": "", "text": "指", "font": ""}, {"font_size": "", "text": "数", "font": ""}, {"font_size": "", "text": " ", "font": ""}, {"font_size": "", "text": "5%", "font": "Arial"}, {"font_size": "21", "text": "以上", "font": "楷体"}, {"font_size": "21", "text": "公司长期评级", "font": "楷体"}, {"font_size": "", "text": "A", "font": "Arial"}, {"font_size": "", "text": "：公司长期竞争力高于行业平均水平", "font": ""}, {"font_size": "", "text": "B", "font": "Arial"}, {"font_size": "21", "text": "：公司长期竞争力与行业平均水平一致", "font": "楷体"}, {"font_size": "21", "text": "C", "font": ""}, {"font_size": "21", "text": "：公司长期竞争力低于行业平均水平", "font": "楷体"}, {"font_size": "21", "text": "行业投资评级", "font": "楷体"}, {"font_size": "", "text": "以报告日起 ", "font": ""}, {"font_size": "", "text": "6 ", "font": "Arial"}, {"font_size": "", "text": "个月内，行业指数相对于同期市场基准", "font": ""}, {"font_size": "", "text": "（", "font": ""}, {"font_size": "", "text": "沪深 ", "font": ""}, {"font_size": "", "text": "300 ", "font": "Arial"}, {"font_size": "", "text": "指数", "font": ""}, {"font_size": "", "text": "）", "font": ""}, {"font_size": "", "text": "的表现为标准： 推荐：行业基本面向好，行业指数将跑赢基准指数", "font": ""}]
+{'style': 'position:absolute;margin-left:47pt;margin-top:319.457489pt;width:403.6pt;height:260.25pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-51520', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[{"font_size": "24", "text": "重要声明", "font": "黑体"}, {"font_size": "", "text": "本报告由招商证券股份有限公司", "font": ""}, {"font_size": "", "text": "（", "font": ""}, {"font_size": "", "text": "以下简称", "font": ""}, {"font_size": "", "text": "“", "font": "Arial"}, {"font_size": "", "text": "本公司", "font": ""}, {"font_size": "", "text": "”", "font": "Arial"}, {"font_size": "", "text": "）", "font": ""}, {"font_size": "", "text": "编制。本公司具有中国证监会许可的证券投资咨询业务资", "font": ""}, {"font_size": "", "text": "格。本报告基于合法取得的信息，但本公司对这些信息的准确性和完整性不作任何保证。本报告所包含的分析基于各种假设，不同假设可能导致分析结果出现重大不同。报告中的内容和意见仅供参考，并不构成对所述证券买", "font": ""}, {"font_size": "", "text": "卖的出价，在任何情况下，本报告中的信息或所表述的意见并不构成对任何人的投资建议。除法律或规则规定必", "font": ""}, {"font_size": "", "text": "须承担的责任外，本公司及其雇员不对使用本报告及其内容所引发的任何直接或间接损失负任何责任。本公司或", "font": ""}, {"font_size": "", "text": "关联机构可能会持有报告中所提到的公司所发行的证券头寸并进行交易，还可能为这些公司提供或争取提供投资", "font": ""}, {"font_size": "", "text": "银行业务服务。客户应当考虑到本公司可能存在可能影响本报告客观性的利益冲突。", "font": ""}, {"font_size": "", "text": "本报告版权归本公司所有。本公司保留所有权利。未经本公司事先书面许可，任何机构和个人均不得以任何形式", "font": ""}]
+{'style': 'position:absolute;margin-left:47pt;margin-top:622.747498pt;width:513.5pt;height:144.75pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-51496', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:47pt;margin-top:789.265625pt;width:101pt;height:11pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-51472', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:510.700012pt;margin-top:787.079956pt;width:53.95pt;height:15.6pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-51448', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:41.880001pt;margin-top:62.929977pt;width:522.85pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-51424', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------
+[]
+{'style': 'position:absolute;margin-left:42.599998pt;margin-top:775.599976pt;width:117.05pt;height:12pt;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;z-index:-51400', 'type': '#_x0000_t202', 'filled': 'false', 'stroked': 'false'}
+-------------------------------------------------------

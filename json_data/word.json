@@ -1,0 +1,78 @@
+"{
+  "tables": [
+    {
+      "rows": [
+        {
+          "cells": [
+            {
+              "width": 305,
+              "height": 95,
+              "padding-left": 0,
+              "border-top": '2,solid,#e1c8a6',
+              "color": '#963939',
+              "vertical-align": 'middle',
+              "contents":[
+                {
+                  "font-size": 24,
+                  "font-weight": 'bold',
+                  "type": 'string',
+                  "value": '强烈推荐-A',
+                }
+              ]
+            },
+            {
+              "width": 721,
+              "height": 95,
+              "padding": 0,
+              "border-top": '2,solid,#e1c8a6',
+              "border-left": '2,dashed,#c2817b',
+              "color": '#ffffff',
+              "background-color": '#963939',
+              "vertical-align": 'middle',
+              "contents":[
+                {
+                  "font-size": 34,
+                  "font-weight": 'bold',
+                  "type": 'string',
+                  "value": '五粮液',
+                },
+                {
+                  "font-size": 24,
+                  "font-weight": 'bold',
+                  "type": 'string',
+                  "value": '000858.SZ',
+                }
+              ]
+            }
+          ],
+          "padding-left": 0,  //页边距
+          "padding-right": 0, //页边距
+          "padding-top": 0, //页边距
+          "padding-bottom": 0 //页边距
+        },
+        {
+          "cells": [
+            {
+
+            },
+            {
+
+            }
+          ],
+          "padding-left": 0,  //页边距
+          "padding-right": 0, //页边距
+          "padding-top": 0, //页边距
+          "padding-bottom": 0 //页边距
+        }
+      ],
+      "padding-bottom": 10
+    },
+    {
+
+    }
+  ],
+  "padding-left": 110,  //页边距
+  "padding-right": 50, //页边距
+  "padding-top": 126, //页边距
+  "padding-bottom": 126 //页边距
+}"
